@@ -1,0 +1,151 @@
+
+
+/* Theme Toggle Component Styles */
+
+/* .theme-toggle-btn {
+
+  background: transparent !important;
+
+  border: none !important;
+
+  color: var(--color-textSecondary) !important;
+
+  cursor: pointer !important;
+
+  padding: 0.5rem !important;
+
+  border-radius: 4px !important;
+
+  transition: all 0.2s ease !important;
+
+  display: flex !important;
+
+  align-items: center !important;
+
+  justify-content: center !important;
+
+} */
+
+ 
+
+.theme-toggle-btn:hover {
+
+  color: var(--color-text) !important;
+
+  background-color: var(--color-surfaceHover) !important;
+
+}
+
+ 
+
+.theme-toggle-btn svg {
+
+  font-size: 1rem !important;
+
+}
+
+ 
+
+/* Floating Theme Toggle */
+
+.floating-theme-toggle {
+
+  position: fixed !important;
+
+  top: 20px !important;
+
+  right: 20px !important;
+
+  z-index: 1000 !important;
+
+  background: var(--color-card) !important;
+
+  border: 2px solid var(--color-border) !important;
+
+  border-radius: 50% !important;
+
+  width: 56px !important;
+
+  height: 56px !important;
+
+  display: flex !important;
+
+  align-items: center !important;
+
+  justify-content: center !important;
+
+  cursor: pointer !important;
+
+  color: var(--color-text) !important;
+
+  font-size: 1.2rem !important;
+
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+
+  backdrop-filter: blur(10px) !important;
+
+}
+
+ 
+
+.floating-theme-toggle:hover {
+
+  background: var(--color-hover) !important;
+
+  transform: translateY(-2px) scale(1.05) !important;
+
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.25) !important;
+
+  border-color: var(--color-accent) !important;
+
+}
+
+ 
+
+.floating-theme-toggle:active {
+
+  transform: translateY(0) scale(0.95) !important;
+
+  transition: all 0.1s ease !important;
+
+}
+
+ 
+
+.floating-theme-toggle .theme-icon {
+
+  transition: all 0.3s ease !important;
+
+}
+
+ 
+
+.floating-theme-toggle:hover .theme-icon {
+
+  transform: rotate(15deg) !important;
+
+  color: var(--color-accent) !important;
+
+}
+
+ 
+
+@media (max-width: 768px) {
+
+  .floating-theme-toggle {
+
+    width: 48px !important;
+
+    height: 48px !important;
+
+    top: 15px !important;
+
+    right: 15px !important;
+
+    font-size: 1rem !important;
+
+  }
+
+}

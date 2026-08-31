@@ -1,0 +1,12 @@
+
+boto3
+
+pymongo
+
+requests
+
+fastapi
+
+uvicorn[standard]
+
+cryptography

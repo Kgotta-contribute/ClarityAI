@@ -1,0 +1,784 @@
+[00:00] Speaker 1: Good morning, good afternoon and good evening. Welcome to a very different setup.
+[00:05] Speaker 1: Today we're doing something a little bit different. We're just going to have a chat.
+[00:09] Speaker 1: We're not going to try to be clear. We're going to talk to each other exactly as we would
+[00:17] Speaker 1: in the kitchen. We've got a random question generator. We're going to ask each other some
+[00:22] Speaker 1: questions, have a bit of a chat, have a bit of a laugh. Exactly, because so many of our students
+[00:27] Speaker 1: that say, you are so clear when you teach me,
+[00:31] Speaker 1: but as soon as I try to listen to real people having a conversation,
+[00:35] Speaker 1: I don't understand it.
+[00:36] Speaker 1: So we're going to have a really real conversation,
+[00:39] Speaker 1: and we will, if we say anything a bit strange or a bit different,
+[00:43] Speaker 1: it will come up on the screen.
+[00:45] Speaker 1: I'll tell you what it means,
+[00:46] Speaker 1: and hopefully this will be a really good way for you to practice your listening.
+[00:49] Speaker 1: So we'll see you on the other side.
+[00:52] Speaker 1: how you been how was christmas you were there
+[01:01] Speaker 1: you were there the whole time did you have a nice christmas i had a lovely time
+[01:07] Speaker 1: my favorite part about christmas was me being there probably um
+[01:15] Speaker 1: boxing day i liked boxing day that was a good day what do you like about boxing day
+[01:20] Speaker 1: so it's like
+[01:22] Speaker 1: it's like Christmas Day
+[01:24] Speaker 1: but it's
+[01:25] Speaker 1: more football
+[01:26] Speaker 1: there's more football
+[01:26] Speaker 1: exactly
+[01:27] Speaker 1: I knew you were going to say that
+[01:28] Speaker 1: play chess
+[01:28] Speaker 1: when he does
+[01:29] Speaker 1: did you win?
+[01:31] Speaker 2: no
+[01:31] Speaker 2: oh yes I did
+[01:32] Speaker 2: but it didn't feel like a win
+[01:34] Speaker 2: because he said
+[01:35] Speaker 2: he said he was only trying
+[01:36] Speaker 2: about 30%
+[01:37] Speaker 2: oh
+[01:38] Speaker 2: so that was
+[01:39] Speaker 2: do you think he'll ever beat him?
+[01:41] Speaker 1: genuinely no
+[01:42] Speaker 1: really?
+[01:43] Speaker 2: I think he's very good
+[01:44] Speaker 2: but he'll just keep getting older
+[01:46] Speaker 2: and you've still got young sharp
+[01:47] Speaker 2: well that's what I'm hoping for
+[01:48] Speaker 2: maybe yeah
+[01:49] Speaker 2: maybe when he's 90, I might be in.
+[01:51] Speaker 2: That's what you gotta wait for.
+[01:52] Speaker 2: We played chess a couple of times, didn't we?
+[01:54] Speaker 1: And I can, like, I know what the pieces do and I can put it in places,
+[02:00] Speaker 1: but I'm not very good at thinking far enough ahead to be like, okay.
+[02:05] Speaker 1: You're getting better.
+[02:06] Speaker 1: I think the first time.
+[02:06] Speaker 1: I do make some moves that make you think.
+[02:08] Speaker 1: Make me think.
+[02:09] Speaker 1: But I'd be worried if you didn't make me think.
+[02:12] Speaker 1: No, but that's a success for me,
+[02:13] Speaker 1: considering the only chess I've ever played was Simpsons chess when I was a kid.
+[02:19] Speaker 1: And Simpsons chess is not any different rules.
+[02:22] Speaker 1: It's still the same rules, but they all look like the Simpsons.
+[02:24] Speaker 1: So you have like Marge was the queen and Homer was the king.
+[02:29] Speaker 1: So I still don't know the names of the real chess pieces
+[02:31] Speaker 1: because I just called them Maggie's and Bart's.
+[02:33] Speaker 1: I played chess last night.
+[02:35] Speaker 1: You did?
+[02:36] Speaker 2: Yeah.
+[02:36] Speaker 2: With Harry.
+[02:37] Speaker 2: On Xbox?
+[02:39] Speaker 1: No, we finished playing Xbox and then I heard-
+[02:42] Speaker 1: The chess online or something?
+[02:43] Speaker 2: Yeah, on Discord.
+[02:44] Speaker 2: There's like a chess thing now.
+[02:46] Speaker 2: And I heard him clicking away.
+[02:47] Speaker 2: We were like, what are you doing?
+[02:48] Speaker 1: This is like quarter to one in the morning.
+[02:51] Speaker 1: And then,
+[02:53] Speaker 1: He said, oh, I'm playing chess.
+[02:54] Speaker 1: And I joined.
+[02:55] Speaker 1: And after then, he joined his game.
+[02:57] Speaker 1: And I was playing.
+[02:58] Speaker 1: I played against him.
+[02:59] Speaker 1: I won, yeah.
+[03:00] Speaker 1: Of course you did.
+[03:01] Speaker 1: Well done.
+[03:02] Speaker 1: Well, shall we do our first question?
+[03:04] Speaker 2: Okay, fine.
+[03:05] Speaker 2: Let's have a look here.
+[03:06] Speaker 2: This is an interesting question, actually.
+[03:07] Speaker 2: Lovely tea, by the way.
+[03:08] Speaker 2: I've recently started not having sugar in my tea.
+[03:12] Speaker 2: I'm doing well with it, aren't I?
+[03:14] Speaker 1: You're doing well with the coffee.
+[03:15] Speaker 1: I don't want a coffee without sugar, but a tea, I'm still getting used to it.
+[03:21] Speaker 1: It's not my cup of tea.
+[03:22] Speaker 1: Not your cup of tea.
+[03:23] Speaker 1: This is my cup of tea, but it's not my cup of tea.
+[03:25] Speaker 1: This is an interesting question.
+[03:27] Speaker 1: OK.
+[03:28] Speaker 1: So what we're going to do is we're going to generate
+[03:30] Speaker 1: some random questions.
+[03:31] Speaker 1: I've generated them.
+[03:32] Speaker 1: And answer them.
+[03:33] Speaker 1: OK, what's the first question?
+[03:34] Speaker 2: Hit me.
+[03:35] Speaker 2: The first question is this.
+[03:39] Speaker 2: What doesn't exist but should?
+[03:43] Speaker 1: Now, you're good at this.
+[03:44] Speaker 1: You've got a whole list of inventions.
+[03:45] Speaker 1: I know, yeah.
+[03:46] Speaker 1: We could love the invention.
+[03:47] Speaker 1: I know.
+[03:47] Speaker 1: That could take the whole time.
+[03:49] Speaker 1: But for you, Laura.
+[03:50] Speaker 1: What doesn't exist but should?
+[03:51] Speaker 2: Well, I could be really, like,
+[03:53] Speaker 2: miss-world about it and say,
+[03:54] Speaker 2: well, peace.
+[03:55] Speaker 2: You know, like, that's something that you could say.
+[03:57] Speaker 2: Yeah, I'm for that.
+[03:58] Speaker 2: Okay, I would love...
+[04:02] Speaker 1: See, I always come across these things,
+[04:06] Speaker 1: but then I never remember what they are.
+[04:07] Speaker 1: Something that...
+[04:09] Speaker 1: Okay, I know what it is.
+[04:11] Speaker 1: Something that doesn't exist but should,
+[04:13] Speaker 1: and it might exist in some places,
+[04:14] Speaker 1: rules in high schools
+[04:16] Speaker 1: of absolutely no phones ever for high school.
+[04:20] Speaker 1: In my school, we didn't have.
+[04:22] Speaker 1: Yeah, but that was before they were so, like, all over the place.
+[04:25] Speaker 1: But in your school, you could.
+[04:27] Speaker 1: You know, in the classes.
+[04:28] Speaker 1: So in the classes, you couldn't have your phones out.
+[04:30] Speaker 1: But at lunchtime, you could do what you want.
+[04:32] Speaker 1: You could just have your phones out.
+[04:33] Speaker 1: But if I'm sending my kids to school, because I don't want to give my kid a phone until they're about 15.
+[04:38] Speaker 1: But I don't want my kid in year seven going to school and everyone's bullying them because they haven't got a phone.
+[04:42] Speaker 1: But if there was a rule of, like, you're not even allowed.
+[04:44] Speaker 1: If a teacher sees a phone, we're going to take it off you.
+[04:46] Speaker 1: Yeah, in my school, that was it.
+[04:48] Speaker 1: Well, that's why I want that to be in most schools then, because it wasn't in my one.
+[04:51] Speaker 1: I remember I had my phone in my...
+[04:53] Speaker 1: Oh, I remember I had my phone.
+[04:57] Speaker 1: We weren't allowed to take it to school, and I never did,
+[04:59] Speaker 1: because there was no point, because I could never go on it.
+[05:01] Speaker 1: Yeah, yeah, yeah.
+[05:01] Speaker 1: But one day I did for some reason, and I panicked.
+[05:05] Speaker 1: I was like, what am I going to do with it?
+[05:06] Speaker 2: Why do I... What am I doing?
+[05:08] Speaker 1: And it was in my pencil case in maths, and my...
+[05:13] Speaker 1: Why would a phone fit in a pencil case?
+[05:16] Speaker 2: I don't know. It was one of those ones with the typey ones.
+[05:18] Speaker 2: Oh, the teeny-weeny ones.
+[05:19] Speaker 2: Not an iPhone.
+[05:20] Speaker 2: Not an iPhone, yeah.
+[05:22] Speaker 2: And it had headphones plugged into it.
+[05:26] Speaker 2: Oh really?
+[05:26] Speaker 1: Right, so I had headphones plugged into it,
+[05:28] Speaker 1: this phone does.
+[05:29] Speaker 1: Yeah.
+[05:29] Speaker 1: And then somehow,
+[05:34] Speaker 1: music started playing through my head.
+[05:36] Speaker 1: So you know when you can hear someone else's headphones
+[05:39] Speaker 1: very, very quietly?
+[05:40] Speaker 2: Yeah.
+[05:40] Speaker 2: That's what happened.
+[05:41] Speaker 2: What was playing?
+[05:43] Speaker 1: I don't know, probably.
+[05:44] Speaker 1: Oh yeah, it was replay.
+[05:45] Speaker 1: Maybe, yeah.
+[05:47] Speaker 1: And then I remember the math teacher walking past
+[05:49] Speaker 1: And I couldn't read.
+[05:50] Speaker 1: I didn't know it was mine either for a bit.
+[05:52] Speaker 1: But I was like, what?
+[05:53] Speaker 2: I can hear very, very faintly some music.
+[05:56] Speaker 2: And then he stopped next to my desk.
+[05:59] Speaker 2: Kind of looked down.
+[06:01] Speaker 2: And I looked up at him.
+[06:03] Speaker 2: And he moved on.
+[06:04] Speaker 2: And he killed you.
+[06:05] Speaker 2: Yeah, I'm a ghost.
+[06:07] Speaker 2: So, yeah.
+[06:08] Speaker 2: But that was very tense.
+[06:09] Speaker 2: I just, one of my biggest stresses for the future,
+[06:12] Speaker 2: and I stress a lot about the future because, you know,
+[06:14] Speaker 2: that's just who I am.
+[06:15] Speaker 2: But one of my biggest stresses is I have a certain way
+[06:18] Speaker 2: that I want to raise my children.
+[06:20] Speaker 2: I don't know why I'm thinking about this.
+[06:21] Speaker 2: Like, I'm only 25,
+[06:22] Speaker 2: but I just, I know how I want to parent children.
+[06:25] Speaker 2: And one of the things that stresses me out the most
+[06:26] Speaker 2: is, like, I have a view
+[06:28] Speaker 2: on how they should use technology and stuff,
+[06:31] Speaker 2: but I don't know how possible that is
+[06:33] Speaker 2: once they leave my house.
+[06:36] Speaker 2: Do you know what I mean?
+[06:36] Speaker 1: Another kid.
+[06:37] Speaker 1: Yeah.
+[06:37] Speaker 1: Well, a lot of parents say that, don't they?
+[06:39] Speaker 2: They say that kids...
+[06:41] Speaker 2: The worst thing that happens to your kids is, like, other kids.
+[06:44] Speaker 2: I know.
+[06:44] Speaker 2: Because they ruin it for you.
+[06:46] Speaker 2: Because you're raising your child in this perfect way,
+[06:48] Speaker 2: and then other children come in and, like, ruin it.
+[06:50] Speaker 2: But maybe that's good.
+[06:53] Speaker 2: No, but then, because the other option, people would say, like,
+[06:55] Speaker 2: oh, homeschool your kids, but I don't want to homeschool my kids.
+[06:57] Speaker 2: I want my kids to have social skills.
+[07:00] Speaker 2: I'm not saying that all homeschool kids don't have social skills,
+[07:03] Speaker 2: but I think it's the easiest way to get social skills is by going to school.
+[07:06] Speaker 2: because, and high school's hard
+[07:09] Speaker 2: and you have to go through difficult times,
+[07:11] Speaker 2: but that's also important.
+[07:13] Speaker 2: I don't know, I don't know why I'm stressing about this now.
+[07:15] Speaker 2: I'm not having a baby.
+[07:16] Speaker 2: So what should exist but doesn't exist?
+[07:21] Speaker 1: No phones in schools.
+[07:22] Speaker 1: There we go.
+[07:23] Speaker 1: Okay.
+[07:24] Speaker 1: Okay, big one.
+[07:25] Speaker 1: The next one is this.
+[07:26] Speaker 1: This is interesting.
+[07:26] Speaker 1: What's your opinion on tipping?
+[07:29] Speaker 2: As in tipping in restaurants, giving money.
+[07:32] Speaker 2: I've got some big old opinions on tipping.
+[07:34] Speaker 2: That's interesting.
+[07:34] Speaker 2: because it's not a thing here is it in the UK you get tips if you give some
+[07:41] Speaker 2: exceptional service even then
+[07:43] Speaker 2: Even then you feel like, okay.
+[07:45] Speaker 2: But what is exceptional service?
+[07:48] Speaker 1: I would say if there's a big group of you, if there's like more than eight,
+[07:54] Speaker 1: and they've been on time and everything's come up
+[07:57] Speaker 1: and they've made sure that everyone's got what they need,
+[07:59] Speaker 1: because that's hard.
+[07:59] Speaker 1: So I've been a waiter and it's really hard to have a big table.
+[08:03] Speaker 1: So I think if you have a big table, it's kind of courteous to give a tip.
+[08:06] Speaker 1: But I went to the States recently and it's mental.
+[08:11] Speaker 1: I went to a buffet and it's a buffet.
+[08:15] Speaker 1: The concept of a buffet is you serve...
+[08:16] Speaker 1: Oh, you had to tip in a buffet.
+[08:18] Speaker 1: I had to tip the person who literally took my card at the till.
+[08:21] Speaker 1: So you're queuing up, someone sat at the till and they go,
+[08:24] Speaker 1: that'll be $30 for the buffet.
+[08:26] Speaker 1: And I said, thank you very much, handed my card over.
+[08:29] Speaker 1: And then she said, you can actually tip now.
+[08:31] Speaker 1: I said, can I?
+[08:33] Speaker 2: Did you?
+[08:34] Speaker 1: No.
+[08:35] Speaker 1: You didn't?
+[08:35] Speaker 2: No.
+[08:36] Speaker 2: And I know that all those Americans hated me, but it's just mental.
+[08:39] Speaker 2: I'm literally at a buffet, I do the work myself,
+[08:42] Speaker 2: and they want me to sit.
+[08:43] Speaker 2: But they have to because they pay.
+[08:45] Speaker 2: American servers, like pittance, they pay them so little
+[08:50] Speaker 2: because they know they're going to get loads of tips.
+[08:52] Speaker 2: Isn't that mental?
+[08:53] Speaker 1: Do they get loads of tips?
+[08:55] Speaker 2: Yeah, because Americans have such a tipping culture put into them
+[08:58] Speaker 2: because they know that the servers don't get a lot, so they have to.
+[09:01] Speaker 2: But if they paid them fairly, then people wouldn't have to tip.
+[09:04] Speaker 2: I know.
+[09:05] Speaker 2: And then that would help people, they would go out for food more
+[09:08] Speaker 2: because they would be less expensive.
+[09:09] Speaker 2: I know.
+[09:10] Speaker 2: Isn't that insane?
+[09:11] Speaker 1: they're basically putting the financial stress on the customers rather than on themselves by paying
+[09:19] Speaker 1: the staff fairly yeah exactly isn't that just awful in other countries do they have that in
+[09:24] Speaker 1: other countries i don't know about other countries i think america is sorry um the states i think the
+[09:28] Speaker 1: states are the the biggest sort of tippers in the uk don't have to worry about tipping at all but i
+[09:34] Speaker 1: saw i followed someone who lives in las vegas and they work on instagram who work as he works as a
+[09:39] Speaker 1: waiter and over Christmas he was taking pictures of bills like cheques that he'd given people
+[09:46] Speaker 1: when they'd left no tip and was writing, like, Merry Christmas,
+[09:50] Speaker 1: I can't believe I had customers like this, like, really complaining about it.
+[09:52] Speaker 1: And I was like, that was me when I was there.
+[09:55] Speaker 1: I wasn't leaving any tips.
+[09:56] Speaker 1: In my opinion, I think, I agree with you if it's exceptional,
+[10:02] Speaker 1: but I don't know what people would have to do to do that.
+[10:06] Speaker 1: Like, to achieve exceptional service, I don't know what they would have to do.
+[10:13] Speaker 1: Can you give me a situation?
+[10:16] Speaker 2: we're eating somewhere
+[10:18] Speaker 2: and
+[10:19] Speaker 2: the waiter's being extra friendly
+[10:22] Speaker 2: asking us how our day's gone
+[10:24] Speaker 2: and something's gone wrong with the food
+[10:26] Speaker 2: but they've been really apologetic
+[10:27] Speaker 2: they said I'll get you a free drink
+[10:29] Speaker 2: but then the waiter's really trying to
+[10:30] Speaker 2: but then the waiter, that's their job
+[10:32] Speaker 2: I know
+[10:33] Speaker 2: that's their job
+[10:35] Speaker 2: we have very different views in the UK
+[10:38] Speaker 2: about how to tip things
+[10:40] Speaker 2: like
+[10:42] Speaker 2: if somebody
+[10:44] Speaker 2: gives
+[10:45] Speaker 2: if they say you can have a free drink.
+[10:49] Speaker 2: a drink on the house as they say yeah then that's not the waiter doing that no that's the that's the
+[10:56] Speaker 2: boss telling the waiter offer them free drinks yeah so yeah no you're right i think i tip
+[11:03] Speaker 2: for five percent of my meals out probably yeah i my i would round it up
+[11:12] Speaker 2: do you know what i mean oh yeah so imagine it's 73 pounds for food yeah i maybe will round it up
+[11:20] Speaker 2: to 80 depending on how many drinks i've had and i feel very generous but usually i don't
+[11:28] Speaker 2: because it's expensive already it is already expensive um do you want the next question yes
+[11:33] Speaker 2: please um oh this is an interesting one um what food do you used to like but don't anymore
+[11:40] Speaker 2: bacon. Yeah, bacon. It's gone well off bacon. Don't know why. I think I had a really bad
+[11:47] Speaker 2: fatty bacon sandwich and i know the bacon sandwich you're talking about and at the time at the time
+[11:52] Speaker 2: you said it was lovely no you did the bacon itself was a bit wet is a bit wet and that's why like
+[12:00] Speaker 2: bacon unless it's burnt i don't like it i don't like floppy fatty bacon it really made it put me
+[12:08] Speaker 2: off it a lot so i've gone i've gone off bacon a lot i could never eat bacon again same i like it
+[12:18] Speaker 2: though but i think that's that's a reflection on me because i'm not a food person in general i'm
+[12:24] Speaker 2: not a food person about food cheese i couldn't live without what you're not a food person you
+[12:28] Speaker 2: cheese cheese guy um what's a food that i used to like but don't anymore that's rare for you if you
+[12:37] Speaker 2: probably, you know what, probably,
+[12:40] Speaker 2: I've gone off soups
+[12:43] Speaker 2: You have soup every day.
+[12:45] Speaker 2: Okay, no, no, no.
+[12:46] Speaker 2: And then, so I like tomato soup.
+[12:48] Speaker 2: I've gone off, like, meaty soups.
+[12:51] Speaker 2: I used to, any soup, I could have it.
+[12:53] Speaker 2: Like, in a restaurant, soup of the day.
+[12:56] Speaker 2: Do they have that in other countries?
+[12:57] Speaker 1: Yeah, yeah, soup of the day.
+[12:58] Speaker 1: Okay, so the soup of the day.
+[13:00] Speaker 1: I used to think, whatever the soup of the day is, I will have it.
+[13:03] Speaker 1: Yeah.
+[13:04] Speaker 1: Because usually you have to ask, what's the soup of the day?
+[13:06] Speaker 2: Well, it's this.
+[13:08] Speaker 2: Now, I feel like I'm getting more picky with my soups.
+[13:13] Speaker 2: That sounds like a 1975 album name.
+[13:20] Speaker 2: I'm more picky with your soups.
+[13:23] Speaker 2: I used to order soup.
+[13:26] Speaker 2: Now I don't.
+[13:28] Speaker 2: I go to restaurants and now I sit there.
+[13:31] Speaker 2: But I don't tip.
+[13:33] Speaker 2: Yeah.
+[13:33] Speaker 2: No.
+[13:34] Speaker 2: This is a big question.
+[13:35] Speaker 2: Do you want a deep question?
+[13:37] Speaker 1: Yeah, sure.
+[13:38] Speaker 1: That's a fun one.
+[13:40] Speaker 1: I feel like crying reading this question.
+[13:42] Speaker 1: Go for it.
+[13:42] Speaker 1: What are you currently doubting in your life?
+[13:47] Speaker 2: Wow.
+[13:49] Speaker 2: Am I doubting?
+[13:51] Speaker 1: School systems.
+[13:52] Speaker 1: I'm back to schools, doubting the school system a lot.
+[13:56] Speaker 1: Yes.
+[13:57] Speaker 1: In your life, though.
+[13:58] Speaker 1: You're done with school.
+[14:00] Speaker 1: But for my children.
+[14:01] Speaker 1: For my children, I'm so worried about.
+[14:03] Speaker 1: Oh, forget about the children, Laura.
+[14:05] Speaker 1: Okay.
+[14:06] Speaker 1: I'm doubting the school system.
+[14:07] Speaker 1: Yeah.
+[14:08] Speaker 1: Something in your life, Laura.
+[14:09] Speaker 1: In my life.
+[14:13] Speaker 2: Not much.
+[14:14] Speaker 2: No.
+[14:15] Speaker 2: Doubt in...
+[14:16] Speaker 2: How much you spend on stuff.
+[14:17] Speaker 2: what are you trying to say we're going shopping after this yeah um no I feel pretty secure I'm
+[14:25] Speaker 2: the kind of person though if I if I doubt something or if I have any kind of issue with
+[14:30] Speaker 2: something I try to fix it straight away so if I was doubting my fitness I'd be on it do you know
+[14:36] Speaker 2: what I mean like if I thought oh I went up the stairs and I was out of breath I'd be like right
+[14:40] Speaker 2: okay we exercise then if I thought well I'm doubting my abilities okay well I'm gonna get
+[14:44] Speaker 2: better then I'll practice so I like to fix things I don't like just to go well
+[14:50] Speaker 2: And that's it.
+[14:51] Speaker 2: I like to go, no, let's solve it.
+[14:52] Speaker 2: So I can't imagine I would sit in doubt for a long time.
+[14:56] Speaker 2: Probably not.
+[14:58] Speaker 2: For me, I don't...
+[15:00] Speaker 2: For doubting relationships with people, I'd go, well, okay, I'll talk to them.
+[15:03] Speaker 2: I'll talk to them, I'll fix it.
+[15:04] Speaker 2: So I don't think I like to...
+[15:06] Speaker 2: I don't like to sit in negativity for a while.
+[15:08] Speaker 2: I fix it.
+[15:10] Speaker 2: Do you?
+[15:11] Speaker 1: I try to.
+[15:12] Speaker 1: You try to, but I feel like that stresses you out more sometimes.
+[15:16] Speaker 1: Deep.
+[15:17] Speaker 1: In the search for perfection, you dig your hole deeper.
+[15:23] Speaker 1: Do you know what I mean?
+[15:24] Speaker 2: That sounds like a 1935 album.
+[15:26] Speaker 2: It does, yeah.
+[15:29] Speaker 1: Shall we have one more question?
+[15:31] Speaker 2: I don't know how long we've been talking for.
+[15:32] Speaker 2: I don't know either.
+[15:33] Speaker 2: Let's do two more.
+[15:34] Speaker 2: Let's do two more questions.
+[15:37] Speaker 2: This is an interesting one.
+[15:38] Speaker 2: What app or website completely changed your life?
+[15:44] Speaker 1: Google.
+[15:46] Speaker 1: YouTube.
+[15:47] Speaker 1: But you too?
+[15:48] Speaker 2: Yeah.
+[15:49] Speaker 2: changed my life yeah yeah because it has changed i think you took the path of your life exactly
+[15:55] Speaker 2: youtube um not facebook no i don't think it changed my life might have changed my brain we
+[16:02] Speaker 2: don't know when we look ahead in future years we might look back at how much of an impact facebook
+[16:06] Speaker 2: had on our brains we might say yeah it did change me completely and i would have been a different
+[16:10] Speaker 2: human if it weren't for social media we don't know definitely i think certainly that's too big
+[16:16] Speaker 2: you can't you can't say like how much do you spend on social media every week yeah it's gonna have
+[16:21] Speaker 2: an impact let's imagine it's it's probably more than this 15 hours which is horrible right but
+[16:27] Speaker 2: if it's more than that you can't say to somebody something you do 15 hours minimum a week if you
+[16:33] Speaker 2: get rid of that has no impact on you and you'd be absolutely fine no like you would be a completely
+[16:38] Speaker 2: different person if you put 15 hours a week into exercise than social media yeah and the thing is
+[16:43] Speaker 2: I don't think with social media,
+[16:46] Speaker 2: I go on social media all the time as well,
+[16:48] Speaker 2: I'm not, I'm a hypocrite here.
+[16:49] Speaker 2: Yeah.
+[16:51] Speaker 2: But there's nothing.
+[16:53] Speaker 2: I think social media should be the last thing that you do.
+[16:58] Speaker 2: Everything else is more productive than going on social media.
+[17:01] Speaker 2: Cleaning the house.
+[17:02] Speaker 2: Yeah.
+[17:02] Speaker 2: Reading a book.
+[17:03] Speaker 2: Talking to a friend.
+[17:05] Speaker 2: Going for a walk.
+[17:06] Speaker 2: Eating a meaty soup.
+[17:07] Speaker 2: Eating a meaty soup.
+[17:08] Speaker 2: Maybe eating a meaty soup.
+[17:10] Speaker 2: Yeah.
+[17:10] Speaker 2: Recording a podcast.
+[17:11] Speaker 2: Yeah.
+[17:12] Speaker 2: Anything.
+[17:12] Speaker 2: Library.
+[17:13] Speaker 2: Yeah.
+[17:14] Speaker 2: Can you name me one thing that social media is more productive than?
+[17:21] Speaker 1: doing drugs
+[17:24] Speaker 1: yeah
+[17:27] Speaker 1: I think
+[17:29] Speaker 1: yeah
+[17:30] Speaker 1: it's more
+[17:31] Speaker 1: productive than
+[17:32] Speaker 1: anything else
+[17:33] Speaker 1: that's more
+[17:33] Speaker 1: destructive
+[17:33] Speaker 1: do you know
+[17:35] Speaker 1: what I mean
+[17:35] Speaker 1: so like yeah
+[17:36] Speaker 1: like jumping
+[17:37] Speaker 1: off a cliff
+[17:38] Speaker 1: yeah
+[17:38] Speaker 1: do you know
+[17:39] Speaker 1: what I mean
+[17:39] Speaker 1: yeah but drugs
+[17:40] Speaker 1: are very destructive
+[17:41] Speaker 1: to you so yeah
+[17:41] Speaker 1: I get what you
+[17:42] Speaker 1: mean
+[17:42] Speaker 1: yeah you're
+[17:43] Speaker 1: going to die
+[17:44] Speaker 1: there are always
+[17:44] Speaker 1: things that are
+[17:45] Speaker 1: more
+[17:46] Speaker 1: yeah I know
+[17:47] Speaker 1: what you mean
+[17:48] Speaker 1: you're saying
+[17:49] Speaker 1: dying is less
+[17:50] Speaker 1: productive than
+[17:51] Speaker 1: social media
+[17:51] Speaker 1: Yeah.
+[17:52] Speaker 1: And that's it.
+[17:52] Speaker 1: And that's what we spent 15 hours a week, minimum, on.
+[17:57] Speaker 1: Yeah.
+[17:58] Speaker 1: Yeah.
+[17:59] Speaker 1: But that's what the world is now.
+[18:01] Speaker 1: What do you do to manage your social media time?
+[18:07] Speaker 2: Can I say what I've done?
+[18:09] Speaker 1: What have you done?
+[18:09] Speaker 2: I've unfollowed a lot of people.
+[18:11] Speaker 2: Not them.
+[18:12] Speaker 2: Sorry.
+[18:13] Speaker 2: I've unfollowed a lot of people.
+[18:13] Speaker 2: Who don't serve you.
+[18:16] Speaker 2: Even people who do.
+[18:17] Speaker 2: even my friends my close family and friends um some of them yeah because because because i
+[18:24] Speaker 2: realize how much i how much i go on it and i'm just trying to make instagram for example
+[18:31] Speaker 2: less and less appealing i don't want instagram to be appealing do you know what i mean because
+[18:38] Speaker 2: if it is then i will want to go on it more like i my twitter i follow a lot of football accounts
+[18:47] Speaker 2: who just talk about football, right?
+[18:48] Speaker 1: Yeah, I do.
+[18:51] Speaker 1: I've unfollowed a lot of them.
+[18:52] Speaker 1: And that's bad for me because I'm like, oh, there's accounts that I like to read about.
+[18:56] Speaker 1: Yeah.
+[18:57] Speaker 1: But by following them, I'm giving myself more of a reason to go on Twitter.
+[19:03] Speaker 1: True.
+[19:03] Speaker 1: So I'm trying to just make it more boring than anything.
+[19:07] Speaker 1: I don't think it's a bad thing if you don't have anything else to do.
+[19:11] Speaker 1: Like, I don't think, if you're sat waiting for a train and you've got nothing.
+[19:14] Speaker 1: See, I do.
+[19:15] Speaker 1: I do.
+[19:16] Speaker 1: Because those are the experiences in the world.
+[19:18] Speaker 1: when we sat at the train station
+[19:19] Speaker 1: you can sit there
+[19:21] Speaker 1: and you can
+[19:21] Speaker 1: watch people
+[19:21] Speaker 1: do it for like 10 minutes
+[19:23] Speaker 1: but then I also want to have
+[19:24] Speaker 1: the option of
+[19:24] Speaker 1: I don't have to sit
+[19:25] Speaker 1: because remember when
+[19:26] Speaker 1: before we did have
+[19:27] Speaker 1: that option
+[19:28] Speaker 1: you hated it
+[19:29] Speaker 1: when you were a kid
+[19:29] Speaker 1: and you had nothing to do
+[19:31] Speaker 1: and you were just sat in a car
+[19:33] Speaker 1: for like 5 hours
+[19:34] Speaker 1: going somewhere
+[19:35] Speaker 1: you hated it
+[19:37] Speaker 1: and like
+[19:38] Speaker 1: yeah
+[19:38] Speaker 1: no but at the time
+[19:39] Speaker 1: the radio was there
+[19:41] Speaker 1: good old radio
+[19:42] Speaker 1: I think it's ok
+[19:44] Speaker 1: as long as it's not taking
+[19:45] Speaker 1: if you're prioritising it
+[19:46] Speaker 1: over something else
+[19:47] Speaker 1: what annoys me
+[19:48] Speaker 1: when people go on it in front of other people.
+[19:50] Speaker 1: Yeah, I know.
+[19:52] Speaker 1: really annoys me and I don't like that people think that I'm boring by saying that no I don't
+[19:59] Speaker 1: think you're boring I think they like probably just think you're being a bit of a granddad
+[20:02] Speaker 1: yeah but why because I want to spend time with my friends and family people don't want to admit
+[20:07] Speaker 1: that they're being on it yeah and in the future there will be some etiquette probably where people
+[20:14] Speaker 1: will say oh yeah going on your phone in front of people is rude well it already is it already is
+[20:19] Speaker 1: but it will become that.
+[20:20] Speaker 1: It's still so new,
+[20:20] Speaker 1: and people are still so getting used to it,
+[20:22] Speaker 1: and like,
+[20:23] Speaker 1: humans are still getting used to the fact
+[20:25] Speaker 1: that we have this thing in our hands,
+[20:26] Speaker 1: and we're just excited to use it,
+[20:27] Speaker 1: like you've given this race of monkeys
+[20:29] Speaker 1: these, you know, crazy things,
+[20:31] Speaker 1: and we're still going,
+[20:32] Speaker 1: oh, don't know that we're,
+[20:33] Speaker 1: but we will get to a point
+[20:34] Speaker 1: where we're bored with them.
+[20:36] Speaker 1: Sometimes,
+[20:38] Speaker 1: I think,
+[20:39] Speaker 1: sometimes I look around
+[20:40] Speaker 1: and people are on their phones,
+[20:41] Speaker 1: and I'm like,
+[20:41] Speaker 1: oh, that's really annoying,
+[20:42] Speaker 1: but then I think,
+[20:43] Speaker 1: if they were all reading books,
+[20:44] Speaker 1: is that any different?
+[20:45] Speaker 2: Because we're not talking to each other anyway,
+[20:47] Speaker 2: still,
+[20:47] Speaker 2: or if we're all watching the TV
+[20:49] Speaker 2: we're not talking to each other, we're just watching the TV
+[20:51] Speaker 2: so how is this different?
+[20:53] Speaker 1: If phones and books had never been invented
+[20:55] Speaker 1: and you gave the human race books, we'd be doing exactly
+[20:57] Speaker 1: the same thing, you'd see everyone just like
+[20:59] Speaker 1: because it's anything that's new, we just want to digest it.
+[21:02] Speaker 1: And I promise you there'll be a revolution,
+[21:04] Speaker 1: not a revolution, but maybe, I think our generation,
+[21:06] Speaker 1: or maybe Gen Z, maybe not Gen Z, they'll love it.
+[21:09] Speaker 1: But one of the generations is going to decide,
+[21:11] Speaker 1: I can't do this anymore.
+[21:13] Speaker 1: And people are going to start buying like old,
+[21:15] Speaker 1: there's going to be this need for these retro,
+[21:17] Speaker 1: like just text-y phones, no touchscreen, no anything.
+[21:21] Speaker 1: Some people will realize, I want to detach, man.
+[21:24] Speaker 1: Just like, you know, unplug.
+[21:25] Speaker 1: Like a little hippie again.
+[21:26] Speaker 1: We're going to have another 70s hippie movement.
+[21:28] Speaker 1: You watch.
+[21:29] Speaker 1: I agree.
+[21:30] Speaker 1: Big call.
+[21:31] Speaker 1: I completely agree.
+[21:32] Speaker 1: Last question here is this.
+[21:34] Speaker 1: Well, one question is, what do you spend too much time doing?
+[21:39] Speaker 2: Yeah, we know that.
+[21:41] Speaker 2: What about...
+[21:42] Speaker 2: This is a good one to end on.
+[21:44] Speaker 2: This one's an interesting...
+[21:46] Speaker 2: Go on, you pick one.
+[21:47] Speaker 2: You pick one.
+[21:48] Speaker 2: You pick one from there.
+[21:50] Speaker 2: What are the top three characteristics you feel are important for a person in general?
+[21:56] Speaker 1: Just a person.
+[21:57] Speaker 1: Oh, that's a good one.
+[21:59] Speaker 1: I'll choose one, you choose one, then we'll agree on one.
+[22:01] Speaker 1: Okay.
+[22:02] Speaker 1: I think decency.
+[22:04] Speaker 1: What do you mean by that?
+[22:05] Speaker 2: No, not decency, sorry.
+[22:06] Speaker 2: Common sense.
+[22:08] Speaker 2: Because I think that can be the same.
+[22:09] Speaker 2: Common sense, I think, is vital.
+[22:11] Speaker 2: Too many people lack common sense.
+[22:12] Speaker 2: Can you give me an example?
+[22:14] Speaker 1: Just being able to...
+[22:15] Speaker 1: Can I change it again?
+[22:17] Speaker 2: Oh, go on.
+[22:19] Speaker 2: I mean, like, common sense, decency.
+[22:23] Speaker 2: But I think what I mean is critical thinking.
+[22:25] Speaker 2: I think being able to think about something.
+[22:29] Speaker 2: and not just go, okay,
+[22:32] Speaker 2: because people who just hear something and just go, yeah,
+[22:36] Speaker 2: those are the people that mean nasty people
+[22:39] Speaker 2: can control and manipulate.
+[22:41] Speaker 2: So like if everyone just hears something and goes, yeah,
+[22:44] Speaker 2: I believe that without taking the time to research
+[22:47] Speaker 2: and think, oh, is it this, is it this, is it this?
+[22:49] Speaker 1: It means you can control and manipulate that people.
+[22:52] Speaker 1: If everyone was able to look through these lies
+[22:55] Speaker 1: and look through things, then,
+[22:57] Speaker 1: horrible people wouldn't rise to power as easily.
+[22:59] Speaker 1: Yeah, we're definitely living through a time
+[23:01] Speaker 1: where lots of people are like that now,
+[23:02] Speaker 1: probably because of phones.
+[23:03] Speaker 1: Exactly.
+[23:04] Speaker 1: So, yes, the people on Facebook,
+[23:05] Speaker 1: and they see, like, a headline that says, like,
+[23:07] Speaker 1: there's been a big argument between these two people,
+[23:11] Speaker 1: and they just read that and go,
+[23:12] Speaker 1: okay, yeah, and they click on it.
+[23:15] Speaker 1: Or they just scroll to the next thing,
+[23:17] Speaker 1: and all they remember is the big argument.
+[23:19] Speaker 1: Yeah, but then if they actually clicked on it,
+[23:20] Speaker 1: it would say something like,
+[23:22] Speaker 1: someone has reported that this person left the room
+[23:24] Speaker 1: a bit earlier than the other person.
+[23:26] Speaker 1: It's just nothing.
+[23:27] Speaker 1: It's just nothing, whereas they're not doing that.
+[23:28] Speaker 1: So I think critical thinking, that's my thing.
+[23:30] Speaker 1: Critical thinking, that's a good one.
+[23:31] Speaker 1: And also with that, what people in the past would do is they would read a newspaper, for example.
+[23:36] Speaker 1: They see something.
+[23:37] Speaker 1: Maybe they read the whole article.
+[23:39] Speaker 1: But even if they don't, they probably did read the whole article.
+[23:41] Speaker 1: They read the whole article, and then they are sitting at the train station with nothing to do.
+[23:46] Speaker 1: And what do they do?
+[23:46] Speaker 2: They start thinking about things.
+[23:48] Speaker 2: They start thinking, how do I feel about that story, that news story, blah, blah, blah.
+[23:51] Speaker 2: But now we don't give ourselves time to think about
+[23:56] Speaker 2: how we feel up to so many deep.
+[23:58] Speaker 2: We don't have enough time anymore to think about how we feel about things.
+[24:02] Speaker 2: We just get given information and think.
+[24:04] Speaker 2: In, out.
+[24:05] Speaker 2: Yeah.
+[24:05] Speaker 2: In, out.
+[24:06] Speaker 2: Yeah, exactly.
+[24:06] Speaker 2: Do the hunky-dunky in your turn.
+[24:07] Speaker 2: So if we've designed the perfect human, I say they need to have some critical thinking.
+[24:12] Speaker 2: What else do they need to have?
+[24:15] Speaker 1: What's the word when you care about other people?
+[24:18] Speaker 2: Empathy.
+[24:19] Speaker 2: Empathy.
+[24:19] Speaker 2: Oh, empathy.
+[24:20] Speaker 2: Empathy is massive.
+[24:22] Speaker 2: Critical thinking and empathy.
+[24:23] Speaker 2: So for example, empathy.
+[24:25] Speaker 2: can you give me an example of empathy so for example somebody somebody somebody's somebody's
+[24:32] Speaker 2: cat has died yeah um they come to your house um and you want to buy a cat but these people
+[24:41] Speaker 2: are at your house who a cat just died r.i.p um and somebody empathetic yeah um would
+[24:50] Speaker 2: would not talk about getting a cat in front of that person.
+[24:54] Speaker 2: I mean, that's on a small scale, but think about it on a big scale.
+[24:57] Speaker 2: Think about someone wants to do evil deeds,
+[25:00] Speaker 2: but then they just have that thing of...
+[25:02] Speaker 2: How would I feel if that was being done to me?
+[25:05] Speaker 1: Do you know what I mean?
+[25:05] Speaker 2: It would stop.
+[25:06] Speaker 2: How would I feel if somebody robbed my house?
+[25:08] Speaker 1: Exactly.
+[25:08] Speaker 1: If your empathy is so strong,
+[25:11] Speaker 1: then it will stop a lot of bad things from happening
+[25:13] Speaker 1: because people just can't bring themselves to do evil stuff.
+[25:16] Speaker 1: So Chris would think of empathy,
+[25:18] Speaker 1: what else,
+[25:19] Speaker 1: that's really good for a good person.
+[25:22] Speaker 1: I'm thinking about who I'd like to be friends with.
+[25:25] Speaker 1: I was going to say patient,
+[25:26] Speaker 1: but not...
+[25:27] Speaker 1: I think that comes with empathy.
+[25:28] Speaker 1: I don't think patience is that important either
+[25:30] Speaker 1: Because sometimes it's good to be impatient and just do something.
+[25:34] Speaker 1: What about...
+[25:37] Speaker 1: Passion? Care?
+[25:39] Speaker 2: Passion's good. Passion's good.
+[25:42] Speaker 2: Passion about something.
+[25:44] Speaker 2: Because what really annoys me is when you ask people,
+[25:48] Speaker 2: what's your favourite film?
+[25:49] Speaker 1: And they say, I don't really have a favourite film.
+[25:52] Speaker 1: And they say...
+[25:54] Speaker 1: what's your favourite song?
+[25:55] Speaker 2: Don't really have one.
+[25:55] Speaker 2: What's your favourite food?
+[25:56] Speaker 1: Don't really have one.
+[25:56] Speaker 1: What's your hobbies?
+[25:57] Speaker 2: They say,
+[25:58] Speaker 2: oh, whatever's on the radio,
+[26:00] Speaker 2: whatever.
+[26:00] Speaker 2: If you aren't passionate about anything,
+[26:01] Speaker 2: it's very frustrating.
+[26:02] Speaker 2: Yeah.
+[26:03] Speaker 2: Like,
+[26:03] Speaker 2: choose something,
+[26:04] Speaker 2: even if it's like cake,
+[26:05] Speaker 2: be passionate about something.
+[26:06] Speaker 2: Do you know what I mean?
+[26:07] Speaker 1: Sometimes I feel like people are,
+[26:09] Speaker 1: but they think,
+[26:10] Speaker 1: so for example,
+[26:11] Speaker 1: maybe they're embarrassed
+[26:12] Speaker 1: about their favourite film,
+[26:13] Speaker 1: or they,
+[26:14] Speaker 1: they think this is their favourite film,
+[26:18] Speaker 1: but they don't love it that much.
+[26:20] Speaker 1: Well,
+[26:20] Speaker 1: maybe that is still your favourite film,
+[26:21] Speaker 1: even though you don't love that film.
+[26:23] Speaker 1: maybe it's your favourite
+[26:24] Speaker 1: so someone who is
+[26:26] Speaker 1: passionate
+[26:26] Speaker 1: empathetic
+[26:27] Speaker 1: and has good
+[26:28] Speaker 1: critical thinking
+[26:29] Speaker 1: what a great human
+[26:30] Speaker 1: I think we've
+[26:30] Speaker 1: yeah probably
+[26:31] Speaker 1: I think so
+[26:32] Speaker 1: the quietest
+[26:33] Speaker 1: out of five
+[26:33] Speaker 1: yeah
+[26:34] Speaker 1: well I thoroughly
+[26:37] Speaker 1: enjoyed discussing
+[26:38] Speaker 1: this with you today
+[26:39] Speaker 1: would you
+[26:40] Speaker 1: do you have anything
+[26:41] Speaker 1: else you want to say
+[26:41] Speaker 1: before we go
+[26:42] Speaker 1: um
+[26:43] Speaker 1: not really
+[26:44] Speaker 1: we're going to go
+[26:45] Speaker 1: shopping in a bit
+[26:46] Speaker 1: to go
+[26:47] Speaker 1: you need to buy
+[26:47] Speaker 1: some waterproof
+[26:48] Speaker 1: shoes
+[26:48] Speaker 1: I'm going to buy
+[26:49] Speaker 1: it
+[26:50] Speaker 1: We are so...
+[26:52] Speaker 1: Yeah, going to buy some waterproof shoes in the January sales.
+[26:56] Speaker 1: To buy some slippers as well.
+[26:58] Speaker 1: I do have slippers in my calendar to maybe buy.
+[27:01] Speaker 1: You've put in your calendar that you want to buy some slippers?
+[27:04] Speaker 2: Yeah.
+[27:05] Speaker 2: Because, okay, no, yeah, because what would you do?
+[27:07] Speaker 1: You would put it in a list, would you?
+[27:09] Speaker 2: Yeah.
+[27:10] Speaker 2: Shopping list.
+[27:10] Speaker 2: Yeah.
+[27:11] Speaker 2: Whereas I'm just putting it in exactly the same place as my sort of shopping centre.
+[27:17] Speaker 2: Waterproof shoes plus slippers.
+[27:19] Speaker 2: That's in my calendar.
+[27:20] Speaker 2: you are adorable
+[27:21] Speaker 2: there you go
+[27:22] Speaker 2: awesome
+[27:23] Speaker 2: and then we're going to go
+[27:24] Speaker 2: and see Matilda
+[27:24] Speaker 2: yes we are
+[27:25] Speaker 2: thank you so much
+[27:26] Speaker 2: for joining us
+[27:27] Speaker 2: I've been very sat back
+[27:28] Speaker 2: I hope I've been in frame
+[27:29] Speaker 2: I'm sure I have been
+[27:30] Speaker 2: I'm sure I've been
+[27:32] Speaker 2: I'll be fine
+[27:32] Speaker 2: I'll be fine
+[27:33] Speaker 2: thank you so much
+[27:34] Speaker 2: I really hope you are
+[27:35] Speaker 2: thank you so much
+[27:37] Speaker 2: for joining us
+[27:38] Speaker 2: we'll be back next time
+[27:39] Speaker 2: bye bye
+[27:50] Speaker 1: Thank you.

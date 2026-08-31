@@ -1,0 +1,5 @@
+[00:00] Agent: Welcome. This is a local transcript generated for mkbhd mp4.
+[00:06] Speaker 2: The upload, background processing, transcript storage, and chat flow are connected.
+[00:12] Agent: In production this step can call Groq Whisper or another speech to text service.
+[00:18] Speaker 2: The transcript is split into searchable chunks for the chat experience.
+[00:24] Agent: Action items include configuring cloud storage, PostgreSQL with pgvector, Redis, and Celery.

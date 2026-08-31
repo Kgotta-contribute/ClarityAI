@@ -1,0 +1,37 @@
+{
+  "name": "clarity-ai-ui",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@okta/okta-auth-js": "^7.4.0",
+    "@okta/okta-react": "^6.7.0",
+    "axios": "^1.6.8",
+    "docx": "^8.5.0",
+    "file-saver": "^2.0.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-error-boundary": "^4.0.12",
+    "react-router-dom": "^5.3.4"
+  },
+  "devDependencies": {
+    "@types/file-saver": "^2.0.7",
+    "@types/node": "^20.11.24",
+    "@types/react": "^18.2.66",
+    "@types/react-dom": "^18.2.22",
+    "@types/react-router-dom": "^5.3.3",
+    "@vitejs/plugin-react": "^4.2.1",
+    "sass": "^1.72.0",
+    "typescript": "^5.2.2",
+    "vite": "^5.1.6"
+  }
+}

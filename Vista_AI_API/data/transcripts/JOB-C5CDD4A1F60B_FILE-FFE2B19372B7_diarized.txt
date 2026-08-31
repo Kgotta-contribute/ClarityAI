@@ -1,0 +1,286 @@
+[00:00] Speaker 1: All right, it's time to talk about iOS 27.
+[00:06] Speaker 1: Coming to an iPhone near you.
+[00:08] Speaker 1: So I've been running the latest beta of iOS 27
+[00:10] Speaker 1: for a little while now, since WWDC, basically.
+[00:13] Speaker 1: The public beta is out now too,
+[00:14] Speaker 1: which means you can test it as well.
+[00:16] Speaker 1: And this is the update of refinement.
+[00:19] Speaker 1: Like there are a lot of,
+[00:20] Speaker 1: there's no big sweeping changes.
+[00:22] Speaker 1: There's a lot of little things in here
+[00:24] Speaker 1: that we've been waiting for for a long time.
+[00:26] Speaker 1: You see what I mean?
+[00:27] Speaker 1: What's crazy is that this has been among the most stable,
+[00:29] Speaker 1: like best set of developer betas I've tested in a long time from Apple. Not that that really means
+[00:35] Speaker 1: anything for the everyday person who's going to wait till September when it officially drops on
+[00:39] Speaker 1: everyone's phones, but it's a good sign. It's just, it's nice to see from where I'm sitting.
+[00:42] Speaker 1: Anyway, this is the top five features of iOS 27 in my order of how good they are. Also,
+[00:50] Speaker 1: if you haven't already gotten subscribed to this channel, make sure you get subscribed to be among
+[00:53] Speaker 1: the first to see the new iPhones that this launches on when that comes out in a few short months.
+[00:59] Speaker 1: So number five is the new photo editing features.
+[01:02] Speaker 1: So in the Photos app now,
+[01:03] Speaker 1: when you open a photo and you go to edit,
+[01:05] Speaker 1: there's two new tools.
+[01:07] Speaker 1: Cleanup was already there for erasing background items
+[01:10] Speaker 1: and it's actually gotten noticeably better,
+[01:12] Speaker 1: but now there's also two new ones,
+[01:14] Speaker 1: Extend and Reframe.
+[01:17] Speaker 1: I've been playing with these a lot.
+[01:18] Speaker 1: Extend is pretty intuitive to me.
+[01:20] Speaker 1: It's basically going to use generative AI
+[01:22] Speaker 1: to extend the edges of a photo
+[01:24] Speaker 1: no matter what camera it was taken on in any direction.
+[01:27] Speaker 1: And it seems maybe a bit silly at first,
+[01:28] Speaker 1: but this is actually a pretty commonly used tool,
+[01:30] Speaker 1: at least for me in Photoshop,
+[01:32] Speaker 1: when I just wanna change the aspect ratio of something.
+[01:34] Speaker 1: Maybe I shot something in portrait,
+[01:36] Speaker 1: but I wanna make it landscape for this video instead.
+[01:39] Speaker 1: Okay, you can just extend and pinch out,
+[01:42] Speaker 1: and it does a pretty great job of reconstructing
+[01:44] Speaker 1: more of whatever was on the outer edges of the frame.
+[01:48] Speaker 1: Obviously, it works best with more consistent patterns
+[01:51] Speaker 1: and abstract stuff,
+[01:52] Speaker 1: but it's also been shockingly good
+[01:53] Speaker 1: with whole entire objects too,
+[01:55] Speaker 1: just sort of creating more of it from scratch.
+[01:58] Speaker 1: But definitely the crazier one that we haven't seen before is this spatial reframe feature.
+[02:03] Speaker 1: So this one is going to let you drag around and morph the perspective from which it appears a photo was taken.
+[02:11] Speaker 1: So it's like kind of being able to move where the camera was in physical space.
+[02:17] Speaker 1: And then it takes some time and generates all these new pixels that it wasn't originally able to see.
+[02:22] Speaker 1: And yeah, it does it.
+[02:25] Speaker 1: Now, I would say the quality of these reframes isn't quite as good.
+[02:29] Speaker 1: Like, it definitely degenerates a bit more quickly than the extents,
+[02:33] Speaker 1: but it is kind of insane that it works and that Apple is just letting you do this to your photos.
+[02:38] Speaker 1: I think there's clearly a little bit less practical uses for this spatial reframe.
+[02:43] Speaker 1: It's a very cool tech demo, but I do think it's kind of convenient for the stuff
+[02:46] Speaker 1: where you're trying to, like, line it up perfectly,
+[02:47] Speaker 1: like one of those perfectly symmetrical shots where you kind of just get the snap,
+[02:50] Speaker 1: like, 96% right in person, and then you want to post it,
+[02:54] Speaker 1: but you want it to be perfect.
+[02:55] Speaker 1: So you get those last few percent by reframing it
+[02:58] Speaker 1: and getting it just right.
+[03:01] Speaker 1: Is that still a photo that you took with your phone?
+[03:05] Speaker 1: In my opinion, no, but who's counting?
+[03:09] Speaker 1: Also, it will not let you extend
+[03:11] Speaker 1: or reframe the same photo more than once.
+[03:14] Speaker 1: So it'll let you do it once
+[03:15] Speaker 1: and then says, all right, that's enough.
+[03:17] Speaker 1: But you can also sort of screenshot it
+[03:18] Speaker 1: and get your way around it
+[03:19] Speaker 1: and hack your way into multiple extends
+[03:21] Speaker 1: and multiple reframes.
+[03:22] Speaker 1: Also, both of these features require an internet connection.
+[03:24] Speaker 1: So if you try to do this while you're offline or in an airplane, then it will give you an
+[03:28] Speaker 1: error message because you need those bigger models on the cloud to actually pull this off.
+[03:32] Speaker 1: All right.
+[03:32] Speaker 1: So the number four is what I'm calling the freaking finally section because it's about
+[03:37] Speaker 1: time.
+[03:37] Speaker 1: Each one of these things was like Apple stubbornly refusing to do it for some reason to the point
+[03:43] Speaker 1: where it became a meme like it been years But now for iOS 27 they found the time So finally separate alarm volume from the rest of system volume in iOS 27
+[03:55] Speaker 1: Freaking finally, bro.
+[03:57] Speaker 1: This has been an Android feature
+[03:58] Speaker 1: for like 20 years at this point.
+[04:00] Speaker 1: And honestly, I still think Android manages this better
+[04:03] Speaker 1: with the separate volume toggles
+[04:05] Speaker 1: and it makes it very clear,
+[04:06] Speaker 1: but hey, at this point, I'll take it.
+[04:08] Speaker 1: I don't care.
+[04:09] Speaker 1: It's about time.
+[04:10] Speaker 1: Also, better management of switching
+[04:12] Speaker 1: off of weak Wi-Fi networks back to cellular.
+[04:15] Speaker 1: This is something I've dealt with for years.
+[04:17] Speaker 1: I'm sure a lot of other people have had this.
+[04:18] Speaker 1: You're leaving your house and you pull up maps
+[04:20] Speaker 1: to like navigate to work or wherever
+[04:22] Speaker 1: and just wanna see traffic.
+[04:24] Speaker 1: For like the first two blocks, every single time,
+[04:26] Speaker 1: I have like a tree that I know that I have to get to
+[04:28] Speaker 1: where it's not gonna know what the instructions are.
+[04:30] Speaker 1: It's not gonna know the traffic.
+[04:32] Speaker 1: Until I pass it, it gets off of my house's Wi-Fi
+[04:34] Speaker 1: and then it connects to cellular.
+[04:36] Speaker 1: But I've noticed it actually being better on iOS 27,
+[04:39] Speaker 1: just leaving, just going straight to cellular.
+[04:41] Speaker 1: In CarPlay and iOS 27, in the now playing, you can finally scrub the media back and forth that you're actually playing on the timeline.
+[04:53] Speaker 1: Finally. What's taking so long?
+[04:55] Speaker 1: And then AirPods are finally getting custom EQ.
+[04:59] Speaker 1: What? Finally?
+[05:02] Speaker 1: At this point, it's been so long, I was convinced they were holding back on this on purpose for some weird reason.
+[05:07] Speaker 1: but okay, it's here now, at least for AirPods with an H2 chip or later. And it's only a three-band
+[05:13] Speaker 1: equalizer, but still, it's crazy to see. I'll take it. It's about time. I don't know who had to lose
+[05:19] Speaker 1: a bet over there for this stuff to happen, but thank you for losing that bet. It's about time.
+[05:24] Speaker 1: I appreciate it. Moving on. So number three is the aesthetic tweaks, because there are a ton of
+[05:30] Speaker 1: little aesthetic improvements everywhere throughout this update. Obviously, iOS 26 was the big one
+[05:35] Speaker 1: with liquid glass, that's not going anywhere.
+[05:37] Speaker 1: But right from the jump on iOS 27,
+[05:39] Speaker 1: you can see like the home screen, the icons are just,
+[05:43] Speaker 1: you can tell they're a little bit different.
+[05:44] Speaker 1: The text and the shadows are just a little bit easier
+[05:47] Speaker 1: to read or a little crisper.
+[05:48] Speaker 1: If you look at Apple stock apps,
+[05:50] Speaker 1: they've actually updated a couple of their icons
+[05:53] Speaker 1: and they've actually finally caved
+[05:54] Speaker 1: and added a new appearances tab.
+[05:57] Speaker 1: And in this tab right at the top is a literal slider
+[06:00] Speaker 1: to dial in exactly how much liquid glass you actually want.
+[06:04] Speaker 1: By default, it's in the middle,
+[06:06] Speaker 1: which I found is just a tiny bit more opaque than before.
+[06:09] Speaker 1: But then you can go all the way to the right,
+[06:11] Speaker 1: which makes it way more opaque and frosted,
+[06:12] Speaker 1: or all the way to the left,
+[06:14] Speaker 1: which makes it way more glassy and transparent
+[06:17] Speaker 1: for you real liquid glass sickos out there.
+[06:19] Speaker 1: It's basic stuff, but I definitely appreciate it.
+[06:22] Speaker 1: I think a lot of you guys will too.
+[06:23] Speaker 1: Also, on the lock screen,
+[06:24] Speaker 1: there's this new compact clock option
+[06:27] Speaker 1: if you just wanna shrink that thing all the way down.
+[06:30] Speaker 1: But they've also completely redesigned
+[06:31] Speaker 1: the home screen swipe down search,
+[06:34] Speaker 1: which is now combined with Siri,
+[06:36] Speaker 1: which conveniently brings me to number two,
+[06:39] Speaker 1: which is the new Siri, aka Siri AI.
+[06:44] Speaker 1: So, okay, I would say the bar was very low for Siri before.
+[06:48] Speaker 1: Like the last 10 years of Siri,
+[06:50] Speaker 1: it's been borderline useless, I would say.
+[06:52] Speaker 1: Probably have been more accidental triggers of Siri
+[06:54] Speaker 1: than intentional ones.
+[06:56] Speaker 1: But now with the help of Google,
+[06:57] Speaker 1: it's gotten this complete overhaul from the ground up.
+[06:59] Speaker 1: It starts with this new animation,
+[07:01] Speaker 1: so you can hold down the power button like before
+[07:03] Speaker 1: and it expands out of the dynamic island,
+[07:06] Speaker 1: and it's this half-see-through, half-opaque sort of crystal orb thing
+[07:09] Speaker 1: that moves as you talk.
+[07:11] Speaker 1: And then once it pops up your answer as an overlay,
+[07:14] Speaker 1: you can actually drag the bottom down
+[07:16] Speaker 1: to turn it into this full overlay conversation window.
+[07:20] Speaker 1: And then you can even fullscreen it to open it alone
+[07:24] Speaker 1: in its brand-new standalone Siri app.
+[07:25] Speaker 1: So it goes from being an overlay to being in the Siri app.
+[07:29] Speaker 1: And this app actually does keep a history of your requests.
+[07:31] Speaker 1: It not every single request but it most of them and you know keeps the bigger ones that you might want to revisit It also has a new voice that is much more expressive and human and is actually customizable I appreciate that you can make it talk faster
+[07:58] Speaker 1: So that's pretty sweet.
+[08:02] Speaker 1: And yeah, it just, it generally feels like they've caught up to the basic functionality of, say, Gemini on an Android phone.
+[08:10] Speaker 1: It's more conversational now, so you can ask it like follow-up questions about something and it will retain that context and keep it going.
+[08:16] Speaker 1: It has broad world knowledge that it actually uses now instead of just saying, hey, I looked this up for you or I Googled it.
+[08:23] Speaker 1: And it has on-screen awareness now, so you can ask it things about whatever you're looking at on your iPhone.
+[08:29] Speaker 1: As long as you use the right language, because there's no UI to get it to look at the screen.
+[08:32] Speaker 1: But I'd say its biggest new capability is being able to dig into the data and the personal context that's actually on your phone.
+[08:41] Speaker 1: So I'm talking about like your iMessages, your emails, your calendar events, and your photos.
+[08:47] Speaker 1: So when you first get this update, it actually indexes in the background for a while.
+[08:50] Speaker 1: It'll say it's optimizing for the new Siri.
+[08:53] Speaker 1: For me, this was a couple of days actually.
+[08:54] Speaker 1: but once that's over, you can ask it things like, what was that watch Dave sent me?
+[09:01] Speaker 1: Dave Lee sent you a message about the light meter watch LMWV1 from Kickstarter.
+[09:06] Speaker 1: He mentioned that he thought David Eimel and Brandon would like it.
+[09:10] Speaker 1: See, that's coming straight from my messages.
+[09:11] Speaker 1: Or, where was I two Saturdays ago?
+[09:15] Speaker 1: Two Saturdays ago, on June 27th, 2026, you were in Greensboro, North Carolina.
+[09:21] Speaker 1: You stayed at a hotel in a rural area and mentioned playing in a game that day.
+[09:25] Speaker 1: So if you pull down, you can see this is pulling from my wallet transactions, my messages,
+[09:32] Speaker 1: and it seems like geotags from photos I took on those days.
+[09:36] Speaker 1: So it's pretty comprehensive and it actually lets you dig up stuff from your personal history
+[09:40] Speaker 1: as long as it's gone through one of these Apple apps.
+[09:43] Speaker 1: It's similar to what Google is doing with Gemini, which is going to the cloud and pulling
+[09:48] Speaker 1: from your Google services like Gmail or Google Calendar.
+[09:52] Speaker 1: But in my opinion, this one's better.
+[09:54] Speaker 1: It's faster because it's locally indexed, and it's a much more visual display.
+[09:58] Speaker 1: And it's also multimodal.
+[09:59] Speaker 1: So like I said, it can answer visual questions about what's on your screen.
+[10:02] Speaker 1: But also, they just added a new mode to the camera app.
+[10:06] Speaker 1: It's one swipe away, and it just says Siri.
+[10:09] Speaker 1: So you can now take a photo in Siri mode and then ask Siri about that image.
+[10:14] Speaker 1: So kind of like what you might have done with Google Lens a few years ago.
+[10:18] Speaker 1: It's honestly pretty good.
+[10:19] Speaker 1: I'd say it's caught up to what you would say
+[10:21] Speaker 1: is like the base expected functionality
+[10:24] Speaker 1: from an AI assistant on your phone in 2026.
+[10:26] Speaker 1: It's no longer a seller dwelling shadow of an AI assistant.
+[10:30] Speaker 1: Now here's the thing about this new Siri.
+[10:33] Speaker 1: No third party app ties yet.
+[10:36] Speaker 1: So this is the thing I was talking about
+[10:37] Speaker 1: in my early coverage of it, which is like, okay,
+[10:39] Speaker 1: of course it's gonna work best
+[10:40] Speaker 1: if you're using a bunch of Apple services,
+[10:42] Speaker 1: iMessage, Apple Photos, Apple Calendar, all that stuff.
+[10:46] Speaker 1: Like when I asked about the texts with Dave,
+[10:48] Speaker 1: that's from iMessage, right?
+[10:49] Speaker 1: But what about my conversations I've had in WhatsApp
+[10:52] Speaker 1: or Telegram or Gmail or any of these other things?
+[10:56] Speaker 1: It doesn't know anything about any of those conversations.
+[10:59] Speaker 1: So my understanding now is basically that these developers
+[11:03] Speaker 1: or these app developers will be able to push an update
+[11:05] Speaker 1: to their app that allows Siri to look into their data
+[11:09] Speaker 1: and basically find stuff that is flagged
+[11:12] Speaker 1: for Siri to find it specifically.
+[11:14] Speaker 1: So, things like third-party messaging apps will be able to tell Siri, hey, this is more
+[11:19] Speaker 1: messages here and other things like calendars and even a bunch more other types of apps And that is really cool to me There even little tiny hints of them starting to trickle out now Like when I ask what the battery status of my car It then actually asks me the user
+[11:35] Speaker 1: if I want to enable Siri to look into these other apps. And so I selected one. And when I said yes
+[11:40] Speaker 1: to Porsches, it was able to tell me. Although you can see Rivian's app is right there on my home
+[11:44] Speaker 1: screen with the widget, but that doesn't show up in the list for me. So clearly they haven't pushed
+[11:48] Speaker 1: an update yet. Basically now it's a waiting game to see how many of these developers will actually
+[11:53] Speaker 1: update their apps to let Siri look into their data. And I think we'll probably start to see a
+[11:59] Speaker 1: lot more of that stuff around September when, you know, the new iPhones come out and everybody gets
+[12:02] Speaker 1: iOS 27 at once. But for now, it's a TBD on how much this sort of access levels up Siri to being
+[12:11] Speaker 1: this little agent that crawls around your phone and finds a bunch of stuff. Also, in the comments
+[12:14] Speaker 1: under the like button, let me know if you want a review just on the new Siri against like Gemini
+[12:21] Speaker 1: on Android, because I think there is a lot more that I could talk about that I have opinions on,
+[12:25] Speaker 1: from sourcing to how it displays data and when it shows your transcriptions and the UI and all
+[12:31] Speaker 1: this other stuff. But that's a whole separate thing. Let me know what you think. For now,
+[12:36] Speaker 1: Siri's pretty good. So that's why it's my number two feature. But real quick, before the number one,
+[12:40] Speaker 1: I also have some honorable mentions, some things that I would like to show you, but that didn't
+[12:44] Speaker 1: quite make my top five. So if you open a picture of food in the new Photos app in iOS 27,
+[12:49] Speaker 1: Siri will not just identify that it is food,
+[12:52] Speaker 1: which it can already do,
+[12:53] Speaker 1: but then it also services a lookup nutrition button
+[12:56] Speaker 1: that will tell you on a sliding scale
+[12:58] Speaker 1: of how healthy it thinks that food is.
+[13:02] Speaker 1: Nothing super detailed,
+[13:03] Speaker 1: like trying to guess calorie counts or anything like that,
+[13:05] Speaker 1: but yeah, I guess that's potentially interesting information
+[13:08] Speaker 1: when it's accurate.
+[13:09] Speaker 1: The Passwords app now also can do the thing
+[13:12] Speaker 1: where it goes through and agentically automatically logs in
+[13:15] Speaker 1: and fixes all of your weak or compromised passwords.
+[13:18] Speaker 1: and then I guess makes you an official password zap relier.
+[13:22] Speaker 1: Insane.
+[13:23] Speaker 1: You can also describe a brand new Siri shortcut
+[13:25] Speaker 1: with natural language
+[13:26] Speaker 1: and it will make it for you from scratch
+[13:28] Speaker 1: and let you edit it after the fact.
+[13:30] Speaker 1: That is incredible.
+[13:31] Speaker 1: And you can also now do threaded replies
+[13:33] Speaker 1: in iMessage with Android users, finally.
+[13:36] Speaker 1: But the number one best new thing in iOS 27
+[13:39] Speaker 1: is that everything is noticeably faster.
+[13:43] Speaker 1: So this is crazy.
+[13:44] Speaker 1: I know they said a bunch of like huge crazy numbers on stage,
+[13:47] Speaker 1: like 70% faster photo loading into the gallery
+[13:50] Speaker 1: after you take a picture,
+[13:51] Speaker 1: or 30% faster app loading across the board,
+[13:55] Speaker 1: or 80% faster airdrops, just like massive changes.
+[13:58] Speaker 1: And the numbers on stage are one thing,
+[14:00] Speaker 1: but actually using the phone
+[14:01] Speaker 1: and feeling it be noticeably smoother and snappier
+[14:05] Speaker 1: is actually pretty sick.
+[14:07] Speaker 1: Now, okay, on a brand new iPhone 16 or 17 or 18,
+[14:11] Speaker 1: this is a bit more subtle, obviously.
+[14:13] Speaker 1: I feel like that's already a pretty fast phone.
+[14:14] Speaker 1: I do notice the faster airdrops,
+[14:16] Speaker 1: But where this really shines is older phones, because for all that talk about iOS updates, like slowing down your phone, it's pretty refreshing to see compatibility for this software go all the way back to iPhone 11 back from 2019.
+[14:30] Speaker 1: And with this new optimized CPU scheduler, it's really kicking in and making an even bigger difference for this older phone to feel much newer again.
+[14:39] Speaker 1: And I'm personally all here for an update that doesn't have to make many visual changes,
+[14:44] Speaker 1: but actually addresses a lot of the behind the scenes bloat and inefficiencies to just
+[14:49] Speaker 1: make everything run that much more smoothly.
+[14:51] Speaker 1: So there you have it, iOS 27.
+[14:53] Speaker 1: I think when this update hits your phone, download it, install it, do it.
+[14:58] Speaker 1: I know that there's real people that hit me up when software updates come out.
+[15:01] Speaker 1: They're like, I don't really want to install this one.
+[15:03] Speaker 1: I feel like it's going to mess things up.
+[15:05] Speaker 1: But this one, you should install it.
+[15:08] Speaker 1: Do it.
+[15:09] Speaker 1: Thanks for watching.
+[15:10] Speaker 1: Catch you in the next one.
+[15:11] Speaker 1: Peace.
