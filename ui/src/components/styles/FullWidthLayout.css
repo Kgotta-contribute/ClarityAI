@@ -1,0 +1,145 @@
+
+
+/* Full Width Layout Styles */
+
+/* Hide sidebar for full-width tabs */
+
+.clarityai-main-layout.full-width-mode .clarityai-sidebar {
+
+  display: none !important;
+
+}
+
+ 
+
+/* Force full width for transcript page */
+
+.clarityai-main-layout.full-width-mode .transcript-full-content {
+
+  width: 100% !important;
+
+  max-width: 100% !important;
+
+  flex: 1 !important;
+
+}
+
+ 
+
+/* Force full width for chat panel */
+
+.clarityai-main-layout.full-width-mode aside[style*="background: #1a1a2e"] {
+
+  width: 100% !important;
+
+  max-width: 100% !important;
+
+  flex: 1 !important;
+
+}
+
+ 
+
+/* Ensure main layout behaves correctly */
+
+.clarityai-main-layout.full-width-mode {
+
+  display: flex !important;
+
+  width: 100% !important;
+
+}
+
+ 
+
+/* Override ChatPanel inline styles for full-width mode */
+
+.clarityai-main-layout.full-width-mode .chat-panel-container,
+
+.clarityai-main-layout.full-width-mode aside {
+
+  width: 100% !important;
+
+  max-width: 100% !important;
+
+  height: calc(100vh - 95px) !important;
+
+  flex: 1 !important;
+
+}
+
+ 
+
+/* Ensure chat panel takes full available space */
+
+.clarityai-main-layout.full-width-mode aside[style*="background: #1a1a2e"] {
+
+  width: 100% !important;
+
+  max-width: 100% !important;
+
+  height: calc(100vh - 95px) !important;
+
+}
+
+ 
+
+/* Make everything full width when in full-width mode */
+
+.clarityai-main-layout.full-width-mode,
+
+.clarityai-main-layout.full-width-mode > *,
+
+.clarityai-main-layout.full-width-mode .transcript-full-content,
+
+.clarityai-main-layout.full-width-mode .chat-panel-container,
+
+.clarityai-main-layout.full-width-mode aside {
+
+  width: 100% !important;
+
+  max-width: 100% !important;
+
+  flex: 1 !important;
+
+}
+
+ 
+
+/* Remove constraining padding */
+
+.clarityai-main-layout.full-width-mode .clarityai-main-content {
+
+  padding: 0 !important;
+
+}
+
+ 
+
+/* Add back some padding to content area only */
+
+.clarityai-main-layout.full-width-mode .transcript-content-area {
+
+  padding: 1rem !important;
+
+}
+
+ 
+
+/* Prevent layout shifts */
+
+.clarityai-main-layout {
+
+  transition: none !important;
+
+  width: 100% !important;
+
+}
+
+ 
+
+.clarityai-main-layout * {
+
+  transition: none !important;
+
+}

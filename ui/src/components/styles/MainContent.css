@@ -1,0 +1,567 @@
+
+
+.clarityai-main-layout {
+
+  display: flex !important;
+
+  flex: 1 !important;
+
+  height: calc(100vh - 95px) !important;
+
+}
+
+ 
+
+.clarityai-layout {
+
+  background-color: var(--color-background) !important;
+
+  min-height: 100vh;
+
+}
+
+ 
+
+.clarityai-header {
+
+  background-color: var(--color-surface) !important;
+
+  border-bottom: 1px solid var(--color-border) !important;
+
+  padding: 1rem 2rem !important;
+
+}
+
+ 
+
+.clarityai-header .design-language-header {
+
+  background: transparent !important;
+
+  border: none !important;
+
+  padding: 0 !important;
+
+}
+
+ 
+
+.clarityai-header h1 {
+
+  color: #cdcdcd !important;
+
+  font-size: 1.5rem !important;
+
+  font-weight: 600 !important;
+
+}
+
+ 
+
+.clarityai-main-content {
+
+  background-color: var(--color-background) !important;
+
+  flex: 1 !important;
+
+  padding: 1.5rem !important;
+
+  overflow-y: auto !important;
+
+  display: flex !important;
+
+  flex-direction: column !important;
+
+}
+
+ 
+
+.clarityai-page-header {
+
+  width: 100% !important;
+
+}
+
+ 
+
+.breadcrumb-section {
+
+  display: flex !important;
+
+  align-items: center !important;
+
+  gap: 0.5rem !important;
+
+  margin-bottom: 1rem !important;
+
+  color: #a0aec0 !important;
+
+  font-size: 0.9rem !important;
+
+}
+
+ 
+
+.breadcrumb-icon {
+
+  font-size: 0.8rem !important;
+
+}
+
+ 
+
+.breadcrumb-text {
+
+  font-weight: 500 !important;
+
+}
+
+ 
+
+.page-header {
+
+  display: flex !important;
+
+  align-items: center !important;
+
+  gap: 0.75rem !important;
+
+  margin-bottom: 2rem !important;
+
+  padding-bottom: 1rem !important;
+
+  border-bottom: 1px solid #4a5568 !important;
+
+}
+
+ 
+
+.page-icon {
+
+  font-size: 1.5rem !important;
+
+  color: #4299e1 !important;
+
+}
+
+ 
+
+ 
+
+.content-grid {
+
+  display: grid !important;
+
+  grid-template-columns: repeat(2, 1fr) !important;
+
+  gap: 1.5rem !important;
+
+  max-width: 1000px !important;
+
+}
+
+ 
+
+.transcript-full-content {
+
+  height: calc(100vh - 95px) !important;
+
+  padding: 0 !important;
+
+  display: flex !important;
+
+  flex-direction: column !important;
+
+}
+
+ 
+
+.transcript-full-content .clarityai-page-header {
+
+  padding: 1rem 2rem !important;
+
+  margin: 0 !important;
+
+  flex-shrink: 0 !important;
+
+}
+
+ 
+
+.transcript-content-area {
+
+  flex: 1 !important;
+
+  padding: 1rem 2rem !important;
+
+  overflow-y: auto !important;
+
+}
+
+ 
+
+.chat-history-full-content {
+
+  height: calc(100vh - 95px) !important;
+
+  padding: 1rem !important;
+
+  overflow: hidden !important;
+
+}
+
+ 
+
+.clarityai-main-content.transcript-full-content,
+
+.clarityai-main-content.chat-history-full-content {
+
+  width: 100% !important;
+
+  max-width: none !important;
+
+}
+
+ 
+
+.clarityai-main-layout .transcript-full-content,
+
+.clarityai-main-layout .chat-history-full-content {
+
+  width: 100% !important;
+
+  flex: 1 !important;
+
+}
+
+ 
+
+.clarityai-main-content.transcript-full-content,
+
+.clarityai-main-content.chat-history-full-content {
+
+  width: 100% !important;
+
+  max-width: 100% !important;
+
+  flex: 1 !important;
+
+}
+
+ 
+
+.clarityai-main-layout {
+
+  width: 100% !important;
+
+}
+
+ 
+
+.clarityai-tile {
+
+  background-color: var(--color-surface) !important;
+
+  border: 1px solid var(--color-border) !important;
+
+  border-radius: 8px !important;
+
+  padding: 0 !important;
+
+  transition: all 0.2s ease !important;
+
+  cursor: pointer !important;
+
+  min-height: 120px !important;
+
+  overflow: hidden !important;
+
+}
+
+ 
+
+.clarityai-tile:hover {
+
+  background-color: var(--color-surfaceHover) !important;
+
+  border-color: var(--color-accent) !important;
+
+  transform: translateY(-2px) !important;
+
+}
+
+ 
+
+ 
+
+ 
+
+ 
+
+.tile-header {
+
+  display: flex !important;
+
+  align-items: center !important;
+
+  gap: 0.75rem !important;
+
+  margin-bottom: 0.75rem !important;
+
+}
+
+ 
+
+.tile-icon {
+
+  font-size: 1.25rem !important;
+
+  color: #4299e1 !important;
+
+}
+
+ 
+
+.tile-title {
+
+  color: #cdcdcd !important;
+
+  font-size: 1rem !important;
+
+  font-weight: 600 !important;
+
+  margin: 0 !important;
+
+}
+
+ 
+
+.tile-description {
+
+  color: #a0aec0 !important;
+
+  font-size: 0.9rem !important;
+
+  line-height: 1.4 !important;
+
+  margin: 0 !important;
+
+}
+
+ 
+
+.clarityai-feature-card {
+
+  background-color: var(--color-surface) !important;
+
+  border: 1px solid var(--color-border) !important;
+
+  border-radius: 8px !important;
+
+  padding: 1.5rem !important;
+
+  transition: all 0.2s ease !important;
+
+  cursor: pointer !important;
+
+}
+
+ 
+
+.clarityai-feature-card:hover {
+
+  transform: translateY(-2px) !important;
+
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15) !important;
+
+  border-color: #4299e1 !important;
+
+}
+
+ 
+
+.clarityai-feature-card .card-header {
+
+  display: flex !important;
+
+  align-items: center !important;
+
+  margin-bottom: 1rem !important;
+
+}
+
+ 
+
+.clarityai-feature-card .card-icon {
+
+  background-color: var(--color-accent) !important;
+
+  color: var(--color-text) !important;
+
+  width: 2.5rem !important;
+
+  height: 2.5rem !important;
+
+  border-radius: 6px !important;
+
+  display: flex !important;
+
+  align-items: center !important;
+
+  justify-content: center !important;
+
+  margin-right: 0.75rem !important;
+
+}
+
+ 
+
+.clarityai-feature-card .card-title {
+
+  color: #cdcdcd !important;
+
+  font-size: 1.125rem !important;
+
+  font-weight: 600 !important;
+
+  margin: 0 !important;
+
+}
+
+ 
+
+.clarityai-feature-card .card-description {
+
+  color: #a0aec0 !important;
+
+  font-size: 0.875rem !important;
+
+  line-height: 1.5 !important;
+
+  margin: 0 !important;
+
+}
+
+ 
+
+.clarityai-hero {
+
+  text-align: center !important;
+
+  margin-bottom: 3rem !important;
+
+}
+
+ 
+
+.clarityai-hero h1 {
+
+  color: #cdcdcd !important;
+
+  font-size: 2.5rem !important;
+
+  font-weight: 700 !important;
+
+  margin-bottom: 1rem !important;
+
+  line-height: 1.2 !important;
+
+}
+
+ 
+
+.clarityai-hero p {
+
+  color: #a0aec0 !important;
+
+  font-size: 1.125rem !important;
+
+  margin-bottom: 2rem !important;
+
+}
+
+ 
+
+.clarityai-hero .button-group {
+
+  display: flex !important;
+
+  gap: 1rem !important;
+
+  justify-content: center !important;
+
+  flex-wrap: wrap !important;
+
+}
+
+ 
+
+.clarityai-logo {
+
+  display: flex !important;
+
+  align-items: center !important;
+
+  gap: 0.5rem !important;
+
+  margin-bottom: 2rem !important;
+
+}
+
+ 
+
+.clarityai-logo .logo-text {
+
+  color: #4299e1 !important;
+
+  font-size: 1.5rem !important;
+
+  font-weight: 700 !important;
+
+}
+
+ 
+
+.clarityai-logo .version-badge {
+
+  background-color: var(--color-error) !important;
+
+  color: var(--color-text) !important;
+
+  padding: 0.125rem 0.5rem !important;
+
+  border-radius: 0.75rem !important;
+
+  font-size: 0.75rem !important;
+
+  font-weight: 600 !important;
+
+}
+
+ 
+
+@media (max-width: 768px) {
+
+  .clarityai-main {
+
+    padding: 1rem !important;
+
+  }
+
+ 
+
+  .clarityai-hero h1 {
+
+    font-size: 2rem !important;
+
+  }
+
+ 
+
+  .clarityai-feature-grid {
+
+    grid-template-columns: 1fr !important;
+
+  }
+
+}

@@ -1,0 +1,92 @@
+# ==========================================
+# Python & Virtual Environments
+# ==========================================
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ==========================================
+# Node & Frontend Build
+# ==========================================
+node_modules/
+dist/
+dist-ssr/
+.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ==========================================
+# Secrets & Credentials
+# ==========================================
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# ==========================================
+# Local Uploads & Audio Files
+# ==========================================
+data/uploads/
+data/audio_chunks/
+data/cache/
+data/transcripts/
+data/models/
+uploads/
+cache/
+scratch/
+*.mp3
+*.mp4
+*.wav
+*.m4a
+*.flac
+*.ogg
+*.aac
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# ==========================================
+# ML Model Weights
+# ==========================================
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.onnx
+*.ckpt
+
+# ==========================================
+# Databases & Local Logs
+# ==========================================
+*.db
+*.sqlite
+*.sqlite3
+*.log
+logs/
+
+# ==========================================
+# OS & IDE Files
+# ==========================================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+*.temp

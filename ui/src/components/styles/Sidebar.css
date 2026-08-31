@@ -1,0 +1,249 @@
+
+
+/* Sidebar Component Styles */
+
+.clarityai-sidebar {
+
+  background-color: var(--color-surface) !important;
+
+  width: 200px !important;
+
+  min-height: 100vh !important;
+
+  border-right: 1px solid var(--color-border) !important;
+
+  padding: 1rem !important;
+
+  display: flex !important;
+
+  flex-direction: column !important;
+
+}
+
+ 
+
+.clarityai-logo {
+
+  padding: 0.5rem 0 !important;
+
+  border-bottom: 1px solid #4a5568 !important;
+
+  margin-bottom: 0.5rem !important;
+
+}
+
+ 
+
+.sidebar-logo-text {
+
+  color: var(--color-text) !important;
+
+  font-size: 1rem !important;
+
+  font-weight: 700 !important;
+
+}
+
+ 
+
+.version-badge {
+
+  background-color: var(--color-error) !important;
+
+  color: var(--color-text) !important;
+
+  font-size: 0.6rem !important;
+
+  padding: 0.125rem 0.375rem !important;
+
+  border-radius: 3px !important;
+
+  margin-left: 0.5rem !important;
+
+  font-weight: 500 !important;
+
+}
+
+ 
+
+.stats-section {
+
+  display: flex !important;
+
+  flex-direction: column !important;
+
+  gap: 0.375rem !important;
+
+}
+
+ 
+
+.menu-section {
+
+  flex: 1 !important;
+
+  display: flex !important;
+
+  flex-direction: column !important;
+
+  gap: 0.125rem !important;
+
+  margin-top: 0.5rem !important;
+
+}
+
+ 
+
+.clarityai-stat-card {
+
+  background-color: var(--color-surface) !important;
+
+  border: none !important;
+
+  border-radius: 6px !important;
+
+  margin-bottom: 1rem !important;
+
+  padding: 1rem !important;
+
+  box-shadow: none !important;
+
+  min-height: 80px !important;
+
+  display: flex !important;
+
+  flex-direction: column !important;
+
+  justify-content: center !important;
+
+}
+
+ 
+
+.clarityai-stat-card .stat-label {
+
+  color: var(--color-textSecondary) !important;
+
+  font-size: 0.75rem !important;
+
+  text-transform: none !important;
+
+  letter-spacing: normal !important;
+
+  margin-bottom: 0.5rem !important;
+
+  font-weight: 400 !important;
+
+  line-height: 1.2 !important;
+
+}
+
+ 
+
+.clarityai-stat-card .stat-value {
+
+  color: var(--color-text) !important;
+
+  font-size: 2rem !important;
+
+  font-weight: 700 !important;
+
+  line-height: 1 !important;
+
+}
+
+ 
+
+.clarityai-menu-item {
+
+  display: flex !important;
+
+  align-items: center !important;
+
+  padding: 0.5rem 0.75rem !important;
+
+  margin-bottom: 0.125rem !important;
+
+  border-radius: 4px !important;
+
+  color: var(--color-textSecondary) !important;
+
+  text-decoration: none !important;
+
+  transition: all 0.2s ease !important;
+
+  cursor: pointer !important;
+
+  font-size: 0.8rem !important;
+
+  font-weight: 500 !important;
+
+}
+
+ 
+
+.clarityai-menu-item:hover {
+
+  background-color: var(--color-surfaceHover) !important;
+
+  color: var(--color-text) !important;
+
+}
+
+ 
+
+.clarityai-menu-item.active {
+
+  background-color: var(--color-accent) !important;
+
+  color: var(--color-text) !important;
+
+}
+
+ 
+
+.clarityai-menu-item .menu-icon {
+
+  margin-right: 0.5rem !important;
+
+  font-size: 0.875rem !important;
+
+  width: 16px !important;
+
+  text-align: center !important;
+
+}
+
+ 
+
+/* Filter sidebar variant */
+
+.clarityai-sidebar.filter-sidebar {
+
+  width: 280px !important;
+
+  min-width: 280px !important;
+
+}
+
+ 
+
+@media (max-width: 768px) {
+
+  .clarityai-sidebar {
+
+    width: 240px !important;
+
+  }
+
+ 
+
+  .clarityai-sidebar.filter-sidebar {
+
+    width: 260px !important;
+
+    min-width: 260px !important;
+
+  }
+
+}
