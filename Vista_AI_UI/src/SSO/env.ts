@@ -115,6 +115,6 @@ const SSO_ISSUER: string = sso_issuer;
 const REDIRECT_URI: string = redirect_uri;
 const ENVIRONMENT: string = env;
 const PATH: string = path;
-const API_BASE_URL: string = api_base_url;
+const API_BASE_URL: string = import.meta.env.VITE_API_BASE_URL || api_base_url;
 
 export { APP_ENV, SSO_CLIENT_ID, SSO_ISSUER, REDIRECT_URI, ENVIRONMENT, PATH, API_BASE_URL };
