@@ -1,5 +1,5 @@
 
-import { API_BASE_URL as ENV_API_BASE_URL } from '../sso/env';
+import { API_BASE_URL as ENV_API_BASE_URL } from '../SSO/env';
 
  
 

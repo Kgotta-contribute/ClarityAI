@@ -1,7 +1,0 @@
-{
-
-  "*.{ts,tsx,js,jsx}": "eslint --fix",
-
-  "*.md": "echo 'Skipping lint for now'"
-
-}

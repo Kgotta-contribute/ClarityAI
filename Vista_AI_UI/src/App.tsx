@@ -28,11 +28,11 @@ import TranscriptsPage from './pages/TranscriptsPage';
 
 import ChatHistoryPage from './pages/ChatHistoryPage';
 
-import AuthProvider from './sso/AuthProvider';
+import AuthProvider from './SSO/AuthProvider';
 
-import oktaConfig from './sso/oktaConfig';
+import oktaConfig from './SSO/oktaConfig';
 
-import { fetchInterceptor } from './sso/FetchInterceptors';
+import { fetchInterceptor } from './SSO/FetchInterceptors';
 
 import { clearAuthData } from './utils/tokenManager';
 
