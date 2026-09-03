@@ -509,7 +509,8 @@ const Sidebar: React.FC<SidebarProps> = ({
 
       {/* Mobile Drawer Header with Close Button */}
       <div className="sidebar-logo-container">
-        <div style={{ display: 'flex', alignItems: 'center', gap: '8px' }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+          <img src="/logo.svg" alt="Clarity AI" style={{ width: '28px', height: '28px', borderRadius: '6px' }} />
           <span className="sidebar-logo-text">Clarity<span className="sidebar-logo-dot">.</span><span className="sidebar-logo-ai">AI</span></span>
         </div>
         <button 

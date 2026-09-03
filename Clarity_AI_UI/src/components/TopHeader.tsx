@@ -122,10 +122,9 @@ const TopHeader: React.FC<TopHeaderProps> = ({
 
         <div className="cx-insights" style={{ width: "100%" }}>
 
-          <span style={{ display: "flex", gap: "10px" }}>
-
+          <span style={{ display: "flex", gap: "10px", alignItems: "center" }}>
+            <img src="/logo.svg" alt="Clarity AI" style={{ width: "22px", height: "22px", borderRadius: "5px" }} />
             <span className="cx-title">Clarity.AI</span>
-
           </span>
 
  

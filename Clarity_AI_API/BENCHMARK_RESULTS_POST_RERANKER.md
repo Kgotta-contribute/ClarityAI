@@ -1,4 +1,4 @@
-# Vista AI — Two-Stage RAG Pipeline Benchmark (Post Cross-Encoder Reranker)
+# Clarity AI — Two-Stage RAG Pipeline Benchmark (Post Cross-Encoder Reranker)
 
 **Embedding Model**: `BAAI/bge-small-en-v1.5` (384-dimensional dense vectors)  
 **Retrieval Stage 1**: pgvector Cosine Search + Lexical Overlap Boost (Top-20 candidates)  
