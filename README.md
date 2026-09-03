@@ -50,6 +50,39 @@
 
 
 
+
+## 🎬 Live Product Walkthrough & Demo
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Kgotta-contribute/ClarityAI/main/Vista_AI_UI/CLarityAI-image-here.png"
+    alt="ClarityAI — Multilingual Audio Intelligence & Conversational RAG Platform"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=X8bgmLo_lAI">
+    <img
+      src="https://img.youtube.com/vi/X8bgmLo_lAI/hqdefault.jpg"
+      alt="ClarityAI Demo Video"
+      width="850"
+    />
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <strong>
+    <a href="https://www.youtube.com/watch?v=X8bgmLo_lAI">
+      Watch the full interactive walkthrough on YouTube
+    </a>
+  </strong>
+</p>
+
+
+
+
+
 ## 🎬 Live Product Walkthrough & Demo
 
 <p align="center">
