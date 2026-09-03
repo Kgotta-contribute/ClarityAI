@@ -350,7 +350,7 @@ def chat(payload: dict[str, Any], request: Request):
 
             # Determine primary model based on language:
             # If user selected English (en) -> use openai/gpt-oss-20b
-            # Otherwise (auto-detect 'auto', Kannada, Hindi, Spanish, etc.) -> use qwen/qwen3.6-27b
+            # Otherwise (auto-detect 'auto', Kannada, Hindi, Spanish, etc.) -> use qwen/qwen3.8-27b
             selected_language = payload.get("language")
             if not selected_language and files:
                 for f in files:
@@ -375,14 +375,14 @@ def chat(payload: dict[str, Any], request: Request):
                 models_to_try = [
                     "openai/gpt-oss-20b",
                     "openai/gpt-oss-120b",
-                    "qwen/qwen3.6-27b",
+                    "qwen/qwen3.8-27b",
                     "qwen-2.5-32b-instruct",
                     "groq/compound-mini"
                 ]
             else:
-                # Primary is qwen/qwen3.6-27b; if rate-limited (429), automatically fails over to openai/gpt-oss-20b
+                # Primary is qwen/qwen3.8-27b; if rate-limited (429), automatically fails over to openai/gpt-oss-20b
                 models_to_try = [
-                    "qwen/qwen3.6-27b",
+                    "qwen/qwen3.8-27b",
                     "openai/gpt-oss-20b",
                     "openai/gpt-oss-120b",
                     "qwen-2.5-32b-instruct",

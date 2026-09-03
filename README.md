@@ -1,6 +1,6 @@
 # ClarityAI — Multilingual Audio Intelligence & Conversational RAG Platform
 
-> An enterprise-grade, end-to-end platform that converts long-form audio/video into speaker-aware, timestamped transcripts and powers grounded conversational intelligence via Two-Stage Dense RAG (BGE-M3 + Cross-Encoder Reranking) and dynamic multi-model reasoning (Qwen 3.6 & GPT-OSS).
+> An enterprise-grade, end-to-end platform that converts long-form audio/video into speaker-aware, timestamped transcripts and powers grounded conversational intelligence via Two-Stage Dense RAG (BGE-M3 + Cross-Encoder Reranking) and dynamic multi-model reasoning (Qwen 3.8 & GPT-OSS).
 
 ---
 
@@ -11,7 +11,7 @@
 - **Two-Stage Dense Multilingual RAG**:
   - **Stage 1 (Dense Recall)**: 1,024-dimensional semantic embeddings using `BAAI/bge-m3` combined with lexical keyword scoring across sliding-window dialogue chunks (Top 20 candidates).
   - **Stage 2 (Cross-Encoder Precision)**: Full cross-attention query-passage reranking via `BAAI/bge-reranker-v2-m3` selecting the Top 10 high-precision chunks for LLM context.
-- **Multilingual LLM Reasoning & Failover**: Primary multilingual reasoning with **Qwen 3.6 (27B)** across Kannada, Japanese, Russian, Hindi, Greek, Spanish, and English with automatic circuit-breaker failover to **GPT-OSS (20B/120B)** on HTTP 429 rate limits.
+- **Multilingual LLM Reasoning & Failover**: Primary multilingual reasoning with **Qwen 3.8 (27B)** across Kannada, Japanese, Russian, Hindi, Greek, Spanish, and English with automatic circuit-breaker failover to **GPT-OSS (20B/120B)** on HTTP 429 rate limits.
 - **Thread-Safe Sliding-Window Rate Limiting**: In-memory, proxy-aware (`X-Forwarded-For`) rate limiter (2 req/60s/IP) with exact `Retry-After` calculation and pre-computation request interception.
 - **Interactive Audio-Transcript Player**: React 18 frontend with native streaming audio playback, interactive timecode badges (`▶ mm:ss`), active-speaker glowing highlights, and strict per-chunk playback isolation.
 - **100.0% Benchmark Accuracy**: Achieved a **100.0% Pass Rate (50/50 PASS)** on comprehensive multi-domain evaluation benchmarks with zero hallucinations and exact timecode citations.
@@ -63,7 +63,7 @@
           ▼                                   ▼
 ┌──────────────────┐               ┌───────────────────────┐
 │ Speaker Diarize  │               │  Multi-Model Router   │
-│ • LLaMA 3.3 70B  │               │ • Qwen 3.6 (27B Multi)│
+│ • LLaMA 3.3 70B  │               │ • Qwen 3.8 (27B Multi)│
 │ • JSON Schema    │               │ • GPT-OSS (Failover)  │
 └──────────────────┘               └───────────────────────┘
 ```
@@ -166,7 +166,7 @@ docker-compose up --build
 | **Speaker Diarization** | `llama-3.3-70b-versatile` | Structured speaker identification and turn assignment in JSON mode |
 | **Dense Vector Embeddings** | `BAAI/bge-m3` | 1,024-dimensional multilingual embeddings for sliding-window chunks |
 | **Cross-Encoder Reranker** | `BAAI/bge-reranker-v2-m3` | High-precision candidate reranking (`Top-20 → Top-10`) |
-| **Multilingual RAG Reasoning** | `qwen/qwen3.6-27b` | Primary conversational comprehension across non-English & multilingual queries |
+| **Multilingual RAG Reasoning** | `qwen/qwen3.8-27b` | Primary conversational comprehension across non-English & multilingual queries |
 | **English RAG & Failover** | `openai/gpt-oss-20b` / `120b` | High-speed English RAG and instant automatic failover on HTTP 429 limits |
 
 ---

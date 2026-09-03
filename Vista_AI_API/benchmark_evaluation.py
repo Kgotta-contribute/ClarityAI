@@ -460,7 +460,7 @@ def query_qwen(prompt: str, context_str: str) -> str:
         f"QUESTION: {prompt}"
     )
     payload_data = {
-        "model": "qwen/qwen3.6-27b",
+        "model": "qwen/qwen3.8-27b",
         "messages": [
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_message},
@@ -468,7 +468,7 @@ def query_qwen(prompt: str, context_str: str) -> str:
         "temperature": 0.1,
     }
     
-    models = ["qwen/qwen3.6-27b", "qwen-2.5-32b-instruct", "qwen/qwen-2.5-72b-instruct", "openai/gpt-oss-120b"]
+    models = ["qwen/qwen3.8-27b", "qwen-2.5-32b-instruct", "qwen/qwen-2.5-72b-instruct", "openai/gpt-oss-120b"]
     for m in models:
         payload_data["model"] = m
         body = json.dumps(payload_data).encode("utf-8")
@@ -501,7 +501,7 @@ def evaluate_response(gen_ans: str, expected_ans: str, key_points: list[str]) ->
 
 def run_benchmark():
     print("=" * 80)
-    print("STARTING 50-QUESTION BENCHMARK: BGE-M3 + BGE-RERANKER-V2-M3 + QWEN-3.6-27B")
+    print("STARTING 50-QUESTION BENCHMARK: BGE-M3 + BGE-RERANKER-V2-M3 + QWEN-3.8-27B")
     print("=" * 80)
     
     chunks, full_transcript = load_chunks()
