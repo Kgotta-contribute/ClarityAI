@@ -20,19 +20,6 @@
 
 ## 🎬 Live Product Walkthrough & Demo
 
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=X8bgmLo_lAI" target="_blank">
-    <img src="https://img.youtube.com/vi/X8bgmLo_lAI/maxresdefault.jpg" alt="ClarityAI Walkthrough Video" width="100%" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.3);"/>
-  </a>
-  <p align="center">
-    ▶ <strong><a href="https://www.youtube.com/watch?v=X8bgmLo_lAI" target="_blank">Click here to watch the full interactive walkthrough on YouTube</a></strong>
-  </p>
-</div>
-
-
-
-## 🎬 Live Product Walkthrough & Demo
-
 <p align="center">
   <a href="https://www.youtube.com/watch?v=X8bgmLo_lAI">
     <img
@@ -46,9 +33,6 @@
 <p align="center">
   ▶️ <strong><a href="https://www.youtube.com/watch?v=X8bgmLo_lAI">Watch the full interactive walkthrough on YouTube</a></strong>
 </p>
-
-
-
 
 ---
 
