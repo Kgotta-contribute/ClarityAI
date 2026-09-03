@@ -54,7 +54,7 @@
 
 <p align="center">
   <img
-    src="./docs/clarityai-cover.png"
+    src="./Vista_AI_UI/CLarityAI-image-here.png"
     alt="ClarityAI — Multilingual Audio Intelligence & Conversational RAG Platform"
     width="100%"
   />
