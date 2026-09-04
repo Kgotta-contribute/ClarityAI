@@ -70,6 +70,18 @@
 
 ---
 
+## 🧩 Microservices & Standalone Repositories
+
+ClarityAI is architected as an isolated, production-grade microservices ecosystem. While this repository serves as the main monorepo, the standalone backend and background worker services are also modularly isolated into their own dedicated repositories for independent CI/CD and deployment:
+
+| Service | Repository | Tech Stack & Core Role | Deployment Target |
+| :--- | :--- | :--- | :--- |
+| **REST & RAG API** | [**Kgotta-contribute/APIClarityAI**](https://github.com/Kgotta-contribute/APIClarityAI) | **FastAPI + pgvector + BGE-M3**<br/>Audio ingestion, Two-Stage Dense RAG, multi-model LLM router, and chat endpoints | [Railway](https://railway.app) |
+| **Background Listener** | [**Kgotta-contribute/ListenerCLarityAI**](https://github.com/Kgotta-contribute/ListenerCLarityAI) | **Python SQS Consumer + MongoDB**<br/>Async SQS queue consumer, long-form audio chunking, decryption, and job lifecycle worker | [Railway](https://railway.app) |
+| **Conversational UI** | [**Kgotta-contribute/ClarityAI**](https://github.com/Kgotta-contribute/ClarityAI) (`Clarity_AI_UI/`) | **React 18 + Vite + TypeScript**<br/>Interactive timecoded transcript player, audio streaming, rate-limit cooldown, and chat | [Vercel](https://vercel.com) |
+
+---
+
 ## 📁 Repository Structure
 
 ```text
@@ -78,7 +90,7 @@
 ├── .dockerignore
 ├── docker-compose.yml
 ├── README.md
-├── api/                     # FastAPI Backend Service
+├── Clarity_AI_API/          # FastAPI Backend (also at Kgotta-contribute/APIClarityAI)
 │   ├── app/
 │   │   ├── api/             # REST Endpoints (jobs, audio, chat, health)
 │   │   ├── config/          # App settings and environment configs
@@ -86,12 +98,14 @@
 │   ├── data/sample_files/   # Sample test media (MP3/MP4)
 │   ├── Dockerfile
 │   └── requirements.txt
-├── listener/                # SQS Background Task & Worker Service
+├── Clarity_AI_Listener/     # SQS Background Worker (also at Kgotta-contribute/ListenerCLarityAI)
+│   ├── api/                 # Health check API
+│   ├── app/                 # SQS consumer, audio chunking, MongoDB utils
 │   ├── Dockerfile
 │   └── requirements.txt
-└── ui/                      # React 18 + Vite SPA Frontend
+└── Clarity_AI_UI/           # React 18 + Vite SPA Frontend
     ├── src/
-    │   ├── components/      # TranscriptWindow, ChatPanel, AudioPlayer
+    │   ├── components/      # TranscriptWindow, ChatPanel, AudioPlayer, UploadPanel
     │   ├── services/        # API and Upload HTTP service clients
     │   └── styles/          # SCSS and CSS Modules
     ├── package.json
@@ -111,10 +125,10 @@
 
 ---
 
-### 1. Backend Setup (`api/`)
+### 1. Backend Setup (`Clarity_AI_API/`)
 
 ```bash
-cd api
+cd Clarity_AI_API
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
@@ -129,10 +143,10 @@ python -m uvicorn app.main:app --host 0.0.0.0 --port 5175 --reload
 
 ---
 
-### 2. Frontend Setup (`ui/`)
+### 2. Frontend Setup (`Clarity_AI_UI/`)
 
 ```bash
-cd ui
+cd Clarity_AI_UI
 npm install
 
 # Create .env file
