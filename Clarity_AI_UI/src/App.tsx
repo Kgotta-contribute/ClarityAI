@@ -313,9 +313,9 @@ const ClarityAIApp: React.FC = () => {
 
         <div className="loading-content">
 
-          <div className="elevance-logo">
+          <div className="chhavi-logo">
 
-            <span className="logo-text">Elevance</span>
+            <span className="logo-text">Chhavi</span>
 
             <span className="logo-subtext">Health</span>
 

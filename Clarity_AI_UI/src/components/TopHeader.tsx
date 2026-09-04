@@ -106,9 +106,9 @@ const TopHeader: React.FC<TopHeaderProps> = ({
     <Header className="clarityai-top-header" style={{ background: "#121938" }}>
       <div className="header-left">
 
-        <div className="elevance-logo">
+        <div className="chhavi-logo">
 
-          <span className="header-logo-text">Elevance</span>
+          <span className="header-logo-text">Chhavi</span>
 
           <span className="logo-subtext">Health</span>
 

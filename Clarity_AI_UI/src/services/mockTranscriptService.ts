@@ -79,7 +79,7 @@ const mockTranscriptSegments: TranscriptSegment[] = [
 
     speaker: 'Agent',
 
-    text: 'Good morning! Thank you for calling Elevance Health customer service. My name is Sarah, and I\'ll be happy to assist you today. May I please have your member ID?',
+    text: 'Good morning! Thank you for calling Chhavi AI customer service. My name is Sarah, and I\'ll be happy to assist you today. May I please have your member ID?',
 
     confidence: 0.95
 
@@ -287,7 +287,7 @@ const mockTranscriptSegments: TranscriptSegment[] = [
 
     speaker: 'Agent',
 
-    text: 'Thank you for calling Elevance Health. Have a wonderful day, and please don\'t hesitate to call if you have any other questions!',
+    text: 'Thank you for calling Chhavi AI. Have a wonderful day, and please don\'t hesitate to call if you have any other questions!',
 
     confidence: 0.96
 
@@ -325,7 +325,7 @@ const mockTranscriptSegments2: TranscriptSegment[] = [
 
     speaker: 'Agent',
 
-    text: 'Hello, this is Mike from Elevance Health technical support. How can I assist you today?',
+    text: 'Hello, this is Mike from Chhavi AI technical support. How can I assist you today?',
 
     confidence: 0.96
 

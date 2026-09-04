@@ -81,7 +81,7 @@ export const mockAudioFiles: AudioFile[] = [
 
       interaction: [
 
-        [1000, 'agent', 'Thank you for calling Elevance Health, this is Sarah. How can I help you today?'],
+        [1000, 'agent', 'Thank you for calling Chhavi AI, this is Sarah. How can I help you today?'],
 
         [6000, 'external', 'Hi Sarah, I\'m calling about my recent claim that was denied. I received a letter but I don\'t understand why it was rejected.'],
 
@@ -109,7 +109,7 @@ export const mockAudioFiles: AudioFile[] = [
 
         [108000, 'external', 'No, that covers everything. Thank you for your help, Sarah.'],
 
-        [113000, 'agent', 'You\'re very welcome! Have a great day and thank you for choosing Elevance Health.']
+        [113000, 'agent', 'You\'re very welcome! Have a great day and thank you for choosing Chhavi AI.']
 
       ],
 
@@ -149,7 +149,7 @@ export const mockAudioFiles: AudioFile[] = [
 
       interaction: [
 
-        [1000, 'agent', 'Good morning, this is Michael from Elevance Health Provider Relations. How can I assist you today?'],
+        [1000, 'agent', 'Good morning, this is Michael from Chhavi AI Provider Relations. How can I assist you today?'],
 
         [7000, 'external', 'Hi Michael, this is Dr. Smith\'s office. We\'re having trouble with claim submissions through your portal.'],
 
@@ -257,7 +257,7 @@ export const mockAudioFiles: AudioFile[] = [
 
       interaction: [
 
-        [1000, 'agent', 'Thank you for calling Elevance Health Pharmacy Services, this is Jennifer. How may I help you?'],
+        [1000, 'agent', 'Thank you for calling Chhavi AI Pharmacy Services, this is Jennifer. How may I help you?'],
 
         [8000, 'external', 'Hi, I\'m trying to fill a prescription but the pharmacy says it\'s not covered. Can you help me understand why?'],
 
@@ -289,7 +289,7 @@ export const mockAudioFiles: AudioFile[] = [
 
         [116000, 'external', 'No, that covers it. Thanks again!'],
 
-        [120000, 'agent', 'Have a great day and thank you for calling Elevance Health.']
+        [120000, 'agent', 'Have a great day and thank you for calling Chhavi AI.']
 
       ],
 

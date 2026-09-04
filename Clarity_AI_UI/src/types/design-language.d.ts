@@ -3,7 +3,7 @@ declare module 'design-language' {
 
   import { ReactNode, MouseEventHandler, CSSProperties } from 'react';
 
-  export interface ElevanceLogoProps {
+  export interface ChhaviLogoProps {
 
     className?: string;
 
@@ -13,7 +13,7 @@ declare module 'design-language' {
 
  
 
-  export interface ElevanceHeaderProps {
+  export interface ChhaviHeaderProps {
 
     children?: ReactNode;
 
@@ -43,9 +43,9 @@ declare module 'design-language' {
 
   }
 
-  export const ElevanceLogo: React.FC<ElevanceLogoProps>;
+  export const ChhaviLogo: React.FC<ChhaviLogoProps>;
 
-  export const ElevanceHeader: React.FC<ElevanceHeaderProps>;
+  export const ChhaviHeader: React.FC<ChhaviHeaderProps>;
 
   export const IconButton: React.FC<IconButtonProps>;
 
@@ -301,9 +301,9 @@ declare module 'design-language' {
 
  
 
-  export const ElevanceLogo: React.FC<ElevanceLogoProps>;
+  export const ChhaviLogo: React.FC<ChhaviLogoProps>;
 
-  export const ElevanceHeader: React.FC<ElevanceHeaderProps>;
+  export const ChhaviHeader: React.FC<ChhaviHeaderProps>;
 
   export const IconButton: React.FC<IconButtonProps>;
 
