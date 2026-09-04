@@ -143,7 +143,36 @@ python -m uvicorn app.main:app --host 0.0.0.0 --port 5175 --reload
 
 ---
 
-### 2. Frontend Setup (`Clarity_AI_UI/`)
+### 2. Background Listener Setup (`Clarity_AI_Listener/`)
+
+```bash
+cd Clarity_AI_Listener
+python -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+
+# Configure environment variables (AWS SQS & MongoDB)
+# On Linux/macOS:
+export AWS_QUEUE_ENDPOINT_URL="your_sqs_queue_url"
+export MONGO_URI="mongodb://localhost:27017"
+
+# On Windows (PowerShell):
+# $env:AWS_QUEUE_ENDPOINT_URL="your_sqs_queue_url"
+# $env:MONGO_URI="mongodb://localhost:27017"
+
+# Option A: Run Health API (Port 8080)
+python run_api.py
+
+# Option B: Run SQS Background Worker
+python main.py
+
+# Option C: Run Both (Linux/Container)
+bash wrapper_script.sh
+```
+
+---
+
+### 3. Frontend Setup (`Clarity_AI_UI/`)
 
 ```bash
 cd Clarity_AI_UI
@@ -160,7 +189,7 @@ Visit **`http://localhost:5173`** in your browser.
 
 ---
 
-### 3. Docker Compose (All-in-One Startup)
+### 4. Docker Compose (All-in-One Startup)
 
 ```bash
 # Set your Groq API key in environment
