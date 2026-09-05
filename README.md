@@ -80,6 +80,12 @@ ClarityAI is architected as an isolated, production-grade microservices ecosyste
 | **Background Listener** | [**Kgotta-contribute/ListenerCLarityAI**](https://github.com/Kgotta-contribute/ListenerCLarityAI) | **Python SQS Consumer + MongoDB**<br/>Async SQS queue consumer, long-form audio chunking, decryption, and job lifecycle worker | [Railway](https://railway.app) |
 | **Conversational UI** | [**Kgotta-contribute/ClarityAI**](https://github.com/Kgotta-contribute/ClarityAI) (`Clarity_AI_UI/`) | **React 18 + Vite + TypeScript**<br/>Interactive timecoded transcript player, audio streaming, rate-limit cooldown, and chat | [Vercel](https://vercel.com) |
 
+### ☁️ Cloud Deployment & Cost Optimization Trade-offs
+
+- **Railway Serverless Architecture**: The FastAPI backend (`APIClarityAI`) is deployed using Railway Serverless (scale-to-zero) to eliminate idle compute costs during periods of inactivity.
+- **Cold-Start Latency Trade-off**: Initial requests after prolonged inactivity will experience a cold-boot delay (~5–15s) while the container initializes and re-establishes pool connections. Subsequent requests execute with sub-second response times.
+- **Decoupled Worker Lifecycle**: The async queue consumer (`ListenerCLarityAI`) is decoupled from the main HTTP API, preventing background polling routines from holding the REST gateway awake.
+
 ---
 
 ## 📁 Repository Structure
