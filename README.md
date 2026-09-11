@@ -1,5 +1,26 @@
 # ClarityAI — Multilingual Audio Intelligence & Conversational RAG Platform
 
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%2018-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq_LPUs-F55036?style=for-the-badge&logo=fastly&logoColor=white" />
+  <img src="https://img.shields.io/badge/BGE--M3-Dense_RAG-7928CA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Railway-Serverless-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Benchmark-100%25_PASS-success?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="#-key-capabilities--highlights">Key Highlights</a> •
+  <a href="#-live-product-walkthrough--demo">Live Demo</a> •
+  <a href="#-two-stage-dense-rag-pipeline">RAG Deep Dive</a> •
+  <a href="#-uiux-feature-highlights">UI/UX Highlights</a> •
+  <a href="#-system-architecture">Architecture</a> •
+  <a href="#-ai-model-matrix">Model Matrix</a> •
+  <a href="#-benchmark--evaluation-results">Benchmarks</a> •
+  <a href="#-quickstart-guide">Quickstart</a>
+</p>
+
 > An enterprise-grade, end-to-end platform that converts long-form audio/video into speaker-aware, timestamped transcripts and powers grounded conversational intelligence via Two-Stage Dense RAG (BGE-M3 + Cross-Encoder Reranking) and dynamic multi-model reasoning (Qwen 3.8 & GPT-OSS).
 
 ---
@@ -33,6 +54,41 @@
 <p align="center">
   ▶️ <strong><a href="https://www.youtube.com/watch?v=X8bgmLo_lAI">Watch the full interactive walkthrough on YouTube</a></strong>
 </p>
+
+---
+
+## 🧠 Two-Stage Dense RAG Pipeline
+
+```text
+User Query: "What evolutionary mechanisms drive king cobra thermoregulation?"
+  │
+  ├─► [Stage 1: Dense Semantic Recall]
+  │   • Model: BAAI/bge-m3 (1024-dimensional embeddings)
+  │   • Window: 3-turn sliding dialogue passages with temporal overlap
+  │   • Output: Top-20 High-Recall Candidate Chunks
+  │
+  ├─► [Stage 2: Cross-Encoder Reranking]
+  │   • Model: BAAI/bge-reranker-v2-m3
+  │   • Joint Query-Passage Cross-Attention scoring
+  │   • Filters out false positives & temporal mismatches
+  │   • Output: Top-10 High-Precision Context Chunks
+  │
+  └─► [Grounded Reasoning & Timecode Citation]
+      • Multi-Model Router: Qwen 3.8 (27B) / GPT-OSS Failover
+      • Result: Fully grounded response citing exact audio timestamps (▶ 04:12)
+```
+
+---
+
+## 🎛️ UI/UX Feature Highlights
+
+| Feature | Description | Engineering Details |
+| :--- | :--- | :--- |
+| ⏱️ **Interactive Timecode Badges** | Click any `▶ mm:ss` timestamp in transcript or chat to seek audio | Custom Web Audio seek controller with millisecond precision |
+| 🌊 **Active Speaker Glowing Waves** | Dynamic animated highlight indicating the current speaker | Driven by audio playback event listeners & diarization metadata |
+| ✂️ **Isolated Segment Playback** | Play single speaker sentences without whole-audio reload | Uses start/stop audio buffers and HTML5 Audio API |
+| 🛡️ **Sliding-Window Rate Limiter UI** | Live cooldown timer when 2 req/60s rate limit is reached | Intercepts HTTP 429 with dynamic seconds countdown |
+| 🌐 **Multilingual Language Auto-Detect** | Supports Kannada, Hindi, Spanish, Greek, Japanese, Russian | Powered by Whisper Large-v3 language identification |
 
 ---
 
@@ -182,6 +238,12 @@ docker-compose up --build
 | **Multilingual RAG Reasoning** | `qwen/qwen3.8-27b` | Primary conversational comprehension across non-English & multilingual queries |
 | **English RAG & Failover** | `openai/gpt-oss-20b` / `120b` | High-speed English RAG and instant automatic failover on HTTP 429 limits |
 
+### ⚡ Multi-Model Circuit Breaker & Failover Strategy
+
+- **Primary Engine**: `qwen/qwen3.8-27b` for deep multilingual contextual reasoning.
+- **Failover Trigger**: Automatic circuit-breaker intercepts HTTP 429 rate limit or timeout errors.
+- **Fallback Engine**: Seamlessly redirects the prompt to `openai/gpt-oss` with zero downtime or user interruption.
+
 ---
 
 ## 📊 Benchmark & Evaluation Results
@@ -197,3 +259,8 @@ Tested on multi-domain multilingual podcast audio (e.g., King Cobra evolutionary
 | **Overall 50-Question Benchmark** | **55.0%** | **100.0% (50/50 PASS)** | **+45.0 pp** |
 
 ---
+
+## 👤 Author & Acknowledgments
+
+- **Author**: Chhavi ([GitHub Profile](https://github.com/Kgotta-contribute) • [LinkedIn](https://linkedin.com/))
+- **Acknowledgments**: Hugging Face, Groq LPUs, Meta AI, Alibaba Qwen Team.
