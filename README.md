@@ -32,7 +32,7 @@
 - **Two-Stage Dense Multilingual RAG**:
   - **Stage 1 (Dense Recall)**: 1,024-dimensional semantic embeddings using `BAAI/bge-m3` combined with lexical keyword scoring across sliding-window dialogue chunks (Top 20 candidates).
   - **Stage 2 (Cross-Encoder Precision)**: Full cross-attention query-passage reranking via `BAAI/bge-reranker-v2-m3` selecting the Top 10 high-precision chunks for LLM context.
-- **Multilingual LLM Reasoning & Failover**: Primary multilingual reasoning with **Qwen 3.8 (27B)** across Kannada, Japanese, Russian, Hindi, Greek, Spanish, and English with automatic circuit-breaker failover to **GPT-OSS (20B/120B)** on HTTP 429 rate limits.
+- **Multilingual LLM Reasoning & Failover**: Primary multilingual reasoning with **Qwen 3.8 (27B)** across 90+ languages (including Kannada, Japanese, Russian, Hindi, Greek, Spanish, and English) with automatic circuit-breaker failover to **GPT-OSS (20B/120B)** on HTTP 429 rate limits.
 - **Thread-Safe Sliding-Window Rate Limiting**: In-memory, proxy-aware (`X-Forwarded-For`) rate limiter (2 req/60s/IP) with exact `Retry-After` calculation and pre-computation request interception.
 - **Interactive Audio-Transcript Player**: React 18 frontend with native streaming audio playback, interactive timecode badges (`▶ mm:ss`), active-speaker glowing highlights, and strict per-chunk playback isolation.
 - **100.0% Benchmark Accuracy**: Achieved a **100.0% Pass Rate (50/50 PASS)** on comprehensive multi-domain evaluation benchmarks with zero hallucinations and exact timecode citations.
@@ -88,7 +88,7 @@ User Query: "What evolutionary mechanisms drive king cobra thermoregulation?"
 | 🌊 **Active Speaker Glowing Waves** | Dynamic animated highlight indicating the current speaker | Driven by audio playback event listeners & diarization metadata |
 | ✂️ **Isolated Segment Playback** | Play single speaker sentences without whole-audio reload | Uses start/stop audio buffers and HTML5 Audio API |
 | 🛡️ **Sliding-Window Rate Limiter UI** | Live cooldown timer when 2 req/60s rate limit is reached | Intercepts HTTP 429 with dynamic seconds countdown |
-| 🌐 **Multilingual Language Auto-Detect** | Supports Kannada, Hindi, Spanish, Greek, Japanese, Russian | Powered by Whisper Large-v3 language identification |
+| 🌐 **Multilingual Language Auto-Detect** | Supports 90+ languages (including Kannada, Hindi, Spanish, Greek, Japanese, Russian, etc.) | Powered by Whisper Large-v3 language identification |
 
 ---
 
