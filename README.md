@@ -77,14 +77,12 @@ ClarityAI is architected as an isolated, production-grade microservices ecosyste
 | Service | Repository | Tech Stack & Core Role | Deployment Target |
 | :--- | :--- | :--- | :--- |
 | **REST & RAG API** | [**Kgotta-contribute/APIClarityAI**](https://github.com/Kgotta-contribute/APIClarityAI) | **FastAPI + pgvector + BGE-M3**<br/>Audio ingestion, Two-Stage Dense RAG, multi-model LLM router, and chat endpoints | [Railway](https://railway.app) |
-| **Background Listener** | [**Kgotta-contribute/ListenerCLarityAI**](https://github.com/Kgotta-contribute/ListenerCLarityAI) | **Python SQS Consumer + MongoDB**<br/>Async SQS queue consumer, long-form audio chunking, decryption, and job lifecycle worker | [Railway](https://railway.app) |
 | **Conversational UI** | [**Kgotta-contribute/ClarityAI**](https://github.com/Kgotta-contribute/ClarityAI) (`Clarity_AI_UI/`) | **React 18 + Vite + TypeScript**<br/>Interactive timecoded transcript player, audio streaming, rate-limit cooldown, and chat | [Vercel](https://vercel.com) |
 
 ### ☁️ Cloud Deployment & Cost Optimization Trade-offs
 
 - **Railway Serverless Architecture**: The FastAPI backend (`APIClarityAI`) is deployed using Railway Serverless (scale-to-zero) to eliminate idle compute costs during periods of inactivity.
 - **Cold-Start Latency Trade-off**: Initial requests after prolonged inactivity will experience a cold-boot delay (~5–15s) while the container initializes and re-establishes pool connections. Subsequent requests execute with sub-second response times.
-- **Decoupled Worker Lifecycle**: The async queue consumer (`ListenerCLarityAI`) is decoupled from the main HTTP API, preventing background polling routines from holding the REST gateway awake.
 
 ---
 
@@ -102,11 +100,6 @@ ClarityAI is architected as an isolated, production-grade microservices ecosyste
 │   │   ├── config/          # App settings and environment configs
 │   │   └── services/        # RAG, BGE-M3, Reranker, Rate Limiter, LocalStore
 │   ├── data/sample_files/   # Sample test media (MP3/MP4)
-│   ├── Dockerfile
-│   └── requirements.txt
-├── Clarity_AI_Listener/     # SQS Background Worker (also at Kgotta-contribute/ListenerCLarityAI)
-│   ├── api/                 # Health check API
-│   ├── app/                 # SQS consumer, audio chunking, MongoDB utils
 │   ├── Dockerfile
 │   └── requirements.txt
 └── Clarity_AI_UI/           # React 18 + Vite SPA Frontend
@@ -149,36 +142,7 @@ python -m uvicorn app.main:app --host 0.0.0.0 --port 5175 --reload
 
 ---
 
-### 2. Background Listener Setup (`Clarity_AI_Listener/`)
-
-```bash
-cd Clarity_AI_Listener
-python -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-
-# Configure environment variables (AWS SQS & MongoDB)
-# On Linux/macOS:
-export AWS_QUEUE_ENDPOINT_URL="your_sqs_queue_url"
-export MONGO_URI="mongodb://localhost:27017"
-
-# On Windows (PowerShell):
-# $env:AWS_QUEUE_ENDPOINT_URL="your_sqs_queue_url"
-# $env:MONGO_URI="mongodb://localhost:27017"
-
-# Option A: Run Health API (Port 8080)
-python run_api.py
-
-# Option B: Run SQS Background Worker
-python main.py
-
-# Option C: Run Both (Linux/Container)
-bash wrapper_script.sh
-```
-
----
-
-### 3. Frontend Setup (`Clarity_AI_UI/`)
+### 2. Frontend Setup (`Clarity_AI_UI/`)
 
 ```bash
 cd Clarity_AI_UI
@@ -195,7 +159,7 @@ Visit **`http://localhost:5173`** in your browser.
 
 ---
 
-### 4. Docker Compose (All-in-One Startup)
+### 3. Docker Compose (All-in-One Startup)
 
 ```bash
 # Set your Groq API key in environment
